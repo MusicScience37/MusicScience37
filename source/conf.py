@@ -38,6 +38,14 @@ templates_path = ["_templates"]
 exclude_patterns = []
 
 
+# setting of opengraph
+# https://pypi.org/project/sphinxext-opengraph/
+extensions += ["sphinxext.opengraph"]
+ogp_site_url = "https://www.musicscience37.com/ja/"
+ogp_site_name = "MusicScience37"
+ogp_image = "https://www.musicscience37.com/KIcon128white.png"
+
+
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
