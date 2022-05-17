@@ -24,7 +24,7 @@ msgstr "MusicScience37"
 
 #: ../../source/index.rst:8
 msgid "`English version of this page <https://www.musicscience37.com/en/>`_."
-msgstr "`日本語版 (For Japanese) <https://www.musicscience37.com/ja/>`_."
+msgstr "`Link to Japanese page <https://www.musicscience37.com/ja/>`_."
 
 #: ../../source/index.rst:11
 msgid "プログラミング"

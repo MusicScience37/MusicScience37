@@ -86,6 +86,8 @@ def build(language: str):
             f"build/{language}",
             "-D",
             f"language={language}",
+            "-D",
+            f"ogp_site_url=https://www.musicscience37.com/{language}/",
         ],
         check=True,
         cwd=str(THIS_DIR),

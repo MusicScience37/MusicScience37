@@ -39,6 +39,8 @@ pages:
     - mkdir -p public
     - mv build/ja/html public/ja
     - mv build/en/html public/en
+    - cp source/KIcon/KIcon.ico public/favicon.ico
+    - cp source/KIcon/KIcon128white.png public/KIcon128white.png
   artifacts:
     paths:
       - public
