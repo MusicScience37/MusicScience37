@@ -31,7 +31,8 @@ build:
   script:
     - mkdir -p .venv
     - pipenv sync
-    - pipenv run make html
+    - pipenv run python3 ./run.py build -l ja
+    - pipenv run python3 ./run.py build -l en
   cache:
     key:
       prefix: pipenv-deploy
@@ -49,10 +50,12 @@ pages:
   stage: deploy
   image: ubuntu
   script:
-    - mv build/html public
+    - mkdir -p public
+    - mv build/ja/html public/ja
+    - mv build/en/html public/en
   artifacts:
     paths:
       - public
-  only:
-    - master
+  #only:
+  #  - master
   needs: [build]

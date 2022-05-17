@@ -1,5 +1,13 @@
 {
-  "cSpell.words": ["Kabashima", "Kenta", "MusicScience37"],
+  "cSpell.words": [
+    "Kabashima",
+    "Kenta",
+    "mkdir",
+    "MusicScience37",
+    "pipenv",
+    "Pipfile",
+    "venv"
+  ],
   "esbonio.sphinx.confDir": "${workspaceFolder}/source",
   "restructuredtext.linter.disabledLinters": ["rstcheck", "rst-lint"],
   "esbonio.server.enabled": false,
