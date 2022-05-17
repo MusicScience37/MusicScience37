@@ -9,11 +9,13 @@ doc8 = "*"
 pre-commit = "*"
 pylint = "*"
 sphinx-autobuild = "*"
+sphinx-intl = "*"
 
 [packages]
 sphinx = "*"
 sphinx-rtd-theme = "*"
 sphinxext-opengraph = "*"
+click = "*"
 
 [requires]
 python_version = "3.9"

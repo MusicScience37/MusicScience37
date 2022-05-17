@@ -37,8 +37,6 @@ templates_path = ["_templates"]
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
-language = "ja"
-
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -59,3 +57,10 @@ html_theme_options = {
     "navigation_depth": -1,
     "style_nav_header_background": "#B24700",
 }
+
+
+# -- Options for internationalization ----------------------------------------
+
+language = "ja"
+locale_dirs = ["locale/"]
+gettext_compact = False
