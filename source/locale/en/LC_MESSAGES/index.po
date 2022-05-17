@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, MusicScience37 (Kenta Kabashima)
+# This file is distributed under the same license as the MusicScience37
+# package.
+# FIRST AUTHOR kenta_program37@hotmail.co.jp, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MusicScience37 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-17 14:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
+"Language-Team: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../../source/index.rst:2
+msgid "MusicScience37"
+msgstr "MusicScience37"
+
+#: ../../source/index.rst:8
+msgid "`English version of this page <https://www.musicscience37.com/en/>`_."
+msgstr "`日本語版 (For Japanese) <https://www.musicscience37.com/ja/>`_."
+
+#: ../../source/index.rst:11
+msgid "プログラミング"
+msgstr "Programming"
+
+#: ../../source/index.rst:13
+msgid "主な言語：C++, Python"
+msgstr "Main languages: C++, Python."
+
+#: ../../source/index.rst:14
+msgid "興味のあること：数値計算など"
+msgstr "Interests: Numerical analysis, and so on..."
