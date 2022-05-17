@@ -3,7 +3,7 @@
 ## In English
 
 - Main languages: C++, Python.
-- Interests: Numerical analysis.
+- Interests: Numerical analysis, and so on...
 
 ## 日本語
 
