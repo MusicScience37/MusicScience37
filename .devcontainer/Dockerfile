@@ -1,4 +1,4 @@
-FROM musicscience37/sphinx-doxygen:clang14-v4.3
+FROM musicscience37/pipenv:focal-v2.4
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \

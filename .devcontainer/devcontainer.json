@@ -7,7 +7,6 @@
   "extensions": [
     "streetsidesoftware.code-spell-checker",
     "davidanson.vscode-markdownlint",
-    "jebbs.plantuml",
     "esbenp.prettier-vscode",
     "ms-python.python",
     "lextudio.restructuredtext",
