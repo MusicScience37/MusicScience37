@@ -16,13 +16,6 @@ pre-commit:
     - mkdir -p .venv
     - pipenv sync --dev
     - pipenv run pre-commit run --all-files
-  cache:
-    key:
-      prefix: pipenv-dev
-      files:
-        - Pipfile.lock
-    paths:
-      - .venv
   needs: []
 
 build:
@@ -33,13 +26,6 @@ build:
     - pipenv sync
     - pipenv run python3 ./tool.py build -l ja
     - pipenv run python3 ./tool.py build -l en
-  cache:
-    key:
-      prefix: pipenv-deploy
-      files:
-        - Pipfile.lock
-    paths:
-      - .venv
   artifacts:
     paths:
       - build
