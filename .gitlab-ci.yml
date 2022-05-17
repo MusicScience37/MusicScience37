@@ -31,8 +31,8 @@ build:
   script:
     - mkdir -p .venv
     - pipenv sync
-    - pipenv run python3 ./run.py build -l ja
-    - pipenv run python3 ./run.py build -l en
+    - pipenv run python3 ./tool.py build -l ja
+    - pipenv run python3 ./tool.py build -l en
   cache:
     key:
       prefix: pipenv-deploy
