@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicScience37 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-17 12:28+0000\n"
+"POT-Creation-Date: 2022-05-17 14:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
 "Language-Team: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
@@ -22,10 +22,18 @@ msgstr ""
 msgid "MusicScience37"
 msgstr "MusicScience37"
 
-#: ../../source/index.rst:4
+#: ../../source/index.rst:8
+msgid "`English version of this page <https://www.musicscience37.com/en/>`_."
+msgstr "`日本語版 (For Japanese) <https://www.musicscience37.com/ja/>`_."
+
+#: ../../source/index.rst:11
+msgid "プログラミング"
+msgstr "Programming"
+
+#: ../../source/index.rst:13
 msgid "主な言語：C++, Python"
 msgstr "Main languages: C++, Python."
 
-#: ../../source/index.rst:5
+#: ../../source/index.rst:14
 msgid "興味のあること：数値計算など"
 msgstr "Interests: Numerical analysis, and so on..."
