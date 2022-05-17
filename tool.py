@@ -47,6 +47,26 @@ def update():
 
 
 @cli.command()
+@click.option("-p", "--port", default=8888, help="Port of the HTTP server.", type=int)
+def auto(port: int):
+    """Automatic build and view."""
+
+    subprocess.run(
+        [
+            "sphinx-autobuild",
+            "source",
+            "build/auto_build",
+            "--host",
+            "0",
+            "--port",
+            str(port),
+        ],
+        check=False,
+        cwd=str(THIS_DIR),
+    )
+
+
+@cli.command()
 @click.option(
     "-l",
     "--language",
