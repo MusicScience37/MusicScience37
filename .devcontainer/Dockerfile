@@ -1,4 +1,4 @@
-FROM musicscience37/pipenv:focal-v2.4
+FROM musicscience37/pipenv:focal-v3.0
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
