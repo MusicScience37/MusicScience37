@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicScience37 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-18 00:21+0000\n"
+"POT-Creation-Date: 2022-05-26 13:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
 "Language-Team: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
@@ -64,7 +64,7 @@ msgid ""
 "analysis-note>`_ : 数値解析で調査したことを書きまとめていくリポジトリ（LaTeX）"
 msgstr ""
 "`Numerical Analysis Note <https://gitlab.com/MusicScience37/numerical-"
-"analysis-note>`_ : Research note about numerical analysis in Japanese."
+"analysis-note>`_ : Research note about numerical analysis in Japanese. (LaTeX)"
 
 #: ../../source/index.rst:30
 msgid ""
@@ -72,11 +72,12 @@ msgid ""
 "collection-cpp>`_ : 数値解析のアルゴリズムを実装してためているリポジトリ（C++）"
 msgstr ""
 "`numerical-collection-cpp <https://gitlab.com/MusicScience37/numerical-"
-"collection-cpp>`_ : A collection of algorithms in numerical analysis implemented in C++."
+"collection-cpp>`_ : A collection of algorithms in numerical analysis  (C++)"
+"implemented in C++."
 
 #: ../../source/index.rst:33
-msgid "その他"
-msgstr "Others"
+msgid "C++ の開発をサポートするライブラリ"
+msgstr "Libraries to support development in C++"
 
 #: ../../source/index.rst:35
 msgid ""
@@ -84,12 +85,98 @@ msgid ""
 "統計情報に加えてグラフの作成まで行うベンチマークライブラリ（C++）"
 msgstr ""
 "`cpp-stat-bench <https://gitlab.com/MusicScience37/cpp-stat-bench>`_ : "
-"Benchmark library with statistics and plots for C++."
+"Benchmark library with statistics and plots for C++. (C++)"
 
 #: ../../source/index.rst:37
 msgid ""
+"`cpp-hash-tables <https://gitlab.com/MusicScience37/cpp-hash-tables>`_ : "
+"ハッシュテーブルの実装（C++）"
+msgstr ""
+"`cpp-hash-tables <https://gitlab.com/MusicScience37/cpp-hash-tables>`_ : "
+"Hash tables in C++. (C++)"
+
+#: ../../source/index.rst:39
+msgid ""
+"`conan-extra-packages <https://gitlab.com/MusicScience37/conan-extra-"
+"packages>`_ : Conan Center にない追加の Conan パッケージ（C++）"
+msgstr ""
+"`conan-extra-packages <https://gitlab.com/MusicScience37/conan-extra-"
+"packages>`_ : Conan packages which are not in Conan Center now, but I want to use. (C++)"
+
+#: ../../source/index.rst:42
+msgid "Docker イメージ"
+msgstr "Docker images"
+
+#: ../../source/index.rst:44
+msgid ""
+"`pipenv-docker <https://gitlab.com/MusicScience37/pipenv-docker>`_ : "
+"Pipenv を使用するための Docker イメージ"
+msgstr ""
+"`pipenv-docker <https://gitlab.com/MusicScience37/pipenv-docker>`_ : "
+"Docker image to use pipenv."
+
+#: ../../source/index.rst:46
+msgid ""
+"`cloc-docker <https://gitlab.com/MusicScience37/cloc-docker>`_ : cloc "
+"を使用するための Docker イメージ"
+msgstr ""
+"`cloc-docker <https://gitlab.com/MusicScience37/cloc-docker>`_ : "
+"Docker image to use cloc."
+
+#: ../../source/index.rst:48
+msgid ""
+"`texlive-pipenv-docker <https://gitlab.com/MusicScience37/texlive-pipenv-"
+"docker>`_ : TeXLive と Pipenv を使用するための Docker イメージ"
+msgstr ""
+"`texlive-pipenv-docker <https://gitlab.com/MusicScience37/texlive-pipenv-"
+"docker>`_ : Docker image to use TeXLive and Pipenv."
+
+#: ../../source/index.rst:50
+msgid ""
+"`cpp-base-image-docker <https://gitlab.com/MusicScience37/cpp-base-image-"
+"docker>`_ : C++ の Docker イメージのベースとして共通のものをインストールした Docker イメージ"
+msgstr ""
+"`cpp-base-image-docker <https://gitlab.com/MusicScience37/cpp-base-image-"
+"docker>`_ : Base Docker image for my Docker images for C++."
+
+#: ../../source/index.rst:52
+msgid ""
+"`gcc-ci-docker <https://gitlab.com/MusicScience37/gcc-ci-docker>`_ : GCC "
+"による C++ の CI のための Docker イメージ"
+msgstr ""
+"`gcc-ci-docker <https://gitlab.com/MusicScience37/gcc-ci-docker>`_ : "
+"Docker image to use GCC in CI."
+
+#: ../../source/index.rst:54
+msgid ""
+"`clang-ci-docker <https://gitlab.com/MusicScience37/clang-ci-docker>`_ : "
+"Clang による C++ の CI のための Docker イメージ"
+msgstr ""
+"`clang-ci-docker <https://gitlab.com/MusicScience37/clang-ci-docker>`_ : "
+"Docker image to use Clang in CI."
+
+#: ../../source/index.rst:56
+msgid ""
+"`sphinx-doxygen-docker <https://gitlab.com/MusicScience37/sphinx-doxygen-"
+"docker>`_ : Sphinx と Doxygen を使用するための Docker イメージ"
+msgstr ""
+"`sphinx-doxygen-docker <https://gitlab.com/MusicScience37/sphinx-doxygen-"
+"docker>`_ : Docker image to use Sphinx and Doxygen."
+
+#: ../../source/index.rst:59
+msgid "その他"
+msgstr "Others"
+
+#: ../../source/index.rst:61
+msgid ""
+"`MusicScience37 <https://gitlab.com/MusicScience37/MusicScience37>`_ : "
+"本ページのリポジトリ（Sphinx）"
+msgstr ""
+"`MusicScience37 <https://gitlab.com/MusicScience37/MusicScience37>`_ : "
+"This page. (Sphinx)"
+
+#: ../../source/index.rst:63
+msgid ""
 "`TIL <https://gitlab.com/MusicScience37/til>`_ : "
 "日々の学んだことを書き込んでいくページ（Sphinx）"
-msgstr ""
-"`TIL <https://gitlab.com/MusicScience37/til>`_ : "
-"My note in Japanese."
+msgstr "`TIL <https://gitlab.com/MusicScience37/til>`_ : My note in Japanese. (Sphinx)"

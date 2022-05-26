@@ -1,11 +1,14 @@
 {
   "cSpell.words": [
+    "cloc",
+    "Doxygen",
     "Kabashima",
     "Kenta",
     "mkdir",
     "MusicScience37",
     "pipenv",
     "Pipfile",
+    "texlive",
     "venv"
   ],
   "esbonio.sphinx.confDir": "${workspaceFolder}/source",
