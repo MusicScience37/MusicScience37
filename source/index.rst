@@ -62,3 +62,10 @@ Contents
     : 本ページのリポジトリ（Sphinx）
   - `TIL <https://gitlab.com/MusicScience37/til>`_
     : 日々の学んだことを書き込んでいくページ（Sphinx）
+
+.. toctree::
+    :caption: Internal
+    :maxdepth: 2
+    :hidden:
+
+    internal/ci-status

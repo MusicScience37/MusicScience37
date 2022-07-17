@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, MusicScience37 (Kenta Kabashima)
+# This file is distributed under the same license as the MusicScience37
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MusicScience37 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-17 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../source/internal/ci-status.md:1
+msgid "CI の状況"
+msgstr "CI Status"
+
+#: ../../source/internal/ci-status.md:3
+msgid "Docker イメージ"
+msgstr "Docker images"
+
+#: ../../source/internal/ci-status.md
+msgid "リポジトリ"
+msgstr "Repository"
+
+#: ../../source/internal/ci-status.md
+msgid "自動実行"
+msgstr "Schedule"
+
+#: ../../source/internal/ci-status.md
+msgid "ブランチ"
+msgstr "Branch"
+
+#: ../../source/internal/ci-status.md
+msgid "ステータス"
+msgstr "Status"
+
+#: ../../source/internal/ci-status.md
+msgid "[pipenv-docker](https://gitlab.com/MusicScience37/pipenv-docker)"
+msgstr ""
+
+#: ../../source/internal/ci-status.md
+msgid "月曜 14:20"
+msgstr "Manday 14.20"
+
+#: ../../source/internal/ci-status.md
+msgid "main"
+msgstr ""
+
+#: ../../source/internal/ci-status.md
+msgid ""
+"[![pipeline status](https://gitlab.com/MusicScience37/pipenv-"
+"docker/badges/main/pipeline.svg)](https://gitlab.com/MusicScience37"
+"/pipenv-docker/-/commits/main)"
+msgstr ""
+
+#: ../../source/internal/ci-status.md:7
+msgid "pipeline status"
+msgstr ""
