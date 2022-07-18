@@ -16,6 +16,7 @@ sphinx = "*"
 sphinx-rtd-theme = "*"
 sphinxext-opengraph = "*"
 click = "*"
+myst-parser = "*"
 
 [requires]
 python_version = "3.9"
