@@ -1,4 +1,4 @@
-FROM musicscience37/pipenv:focal-v3.0
+FROM musicscience37/pipenv:focal
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
@@ -7,4 +7,5 @@ RUN apt-get update && \
     vim \
     nano && \
     apt-get autoremove && \
-    apt-get autoclean
+    apt-get autoclean && \
+    rm -r /var/lib/apt/lists/*
