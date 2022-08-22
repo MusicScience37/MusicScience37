@@ -38,6 +38,10 @@ Contents
     : ハッシュテーブルの実装（C++）
   - `conan-extra-packages <https://gitlab.com/MusicScience37/conan-extra-packages>`_
     : Conan Center にない追加の Conan パッケージ（C++）
+  - `clang-tidy-checker <https://gitlab.com/MusicScience37/clang-tidy-checker>`_
+    : C++ のソースコードに対して
+    `Clang-Tidy <https://clang.llvm.org/extra/clang-tidy/>`_
+    によるチェックを行うツール（Python）
 
 - Docker イメージ
 

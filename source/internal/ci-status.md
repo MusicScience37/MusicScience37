@@ -23,6 +23,12 @@
 | [cpp-hash-tables](https://gitlab.com/MusicScience37/cpp-hash-tables)                   | 金曜 14:20 | develop  | [![pipeline status](https://gitlab.com/MusicScience37/cpp-hash-tables/badges/develop/pipeline.svg)](https://gitlab.com/MusicScience37/cpp-hash-tables/-/commits/develop)                   |
 | [numerical-collection-cpp](https://gitlab.com/MusicScience37/numerical-collection-cpp) | 金曜 15:20 | develop  | [![pipeline status](https://gitlab.com/MusicScience37/numerical-collection-cpp/badges/develop/pipeline.svg)](https://gitlab.com/MusicScience37/numerical-collection-cpp/-/commits/develop) |
 
+## C++ ツール
+
+| リポジトリ                                                                 | 自動実行   | ブランチ | ステータス                                                                                                                                                                     |
+| :------------------------------------------------------------------------- | :--------- | :------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [clang-tidy-checker](https://gitlab.com/MusicScience37/clang-tidy-checker) | 月曜 14:20 | develop  | [![pipeline status](https://gitlab.com/MusicScience37/clang-tidy-checker/badges/develop/pipeline.svg)](https://gitlab.com/MusicScience37/clang-tidy-checker/-/commits/develop) |
+
 ## ドキュメント
 
 | リポジトリ                                                                           | 自動実行   | ブランチ | ステータス                                                                                                                                                                         |

@@ -19,9 +19,12 @@
 - Numerical Analysis
   - [Numerical Analysis Note](https://gitlab.com/MusicScience37/numerical-analysis-note)
   - [numerical-collection-cpp](https://gitlab.com/MusicScience37/numerical-collection-cpp)
+  - [Fluid Simulation](https://gitlab.com/MusicScience37/fluid-simulation)
 - C++ Libraries
   - [cpp-stat-bench](https://gitlab.com/MusicScience37/cpp-stat-bench)
   - [cpp-hash-tables](https://gitlab.com/MusicScience37/cpp-hash-tables)
+- C++ Tools
+  - [clang-tidy-checker](https://gitlab.com/MusicScience37/clang-tidy-checker)
 - Docker Images
   - [pipenv-docker](https://gitlab.com/MusicScience37/pipenv-docker)
   - [cloc-docker](https://gitlab.com/MusicScience37/cloc-docker)
@@ -34,3 +37,4 @@
 - Others
   - [MusicScience37](https://gitlab.com/MusicScience37/MusicScience37)
   - [TIL](https://gitlab.com/MusicScience37/til)
+  - [KIcon](https://gitlab.com/MusicScience37/kicon)
