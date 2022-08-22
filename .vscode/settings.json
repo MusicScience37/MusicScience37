@@ -4,11 +4,13 @@
     "Doxygen",
     "Kabashima",
     "Kenta",
+    "maxdepth",
     "mkdir",
     "MusicScience37",
     "pipenv",
     "Pipfile",
     "texlive",
+    "toctree",
     "venv"
   ],
   "esbonio.sphinx.confDir": "${workspaceFolder}/source",

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicScience37 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-19 08:44+0000\n"
+"POT-Creation-Date: 2022-08-22 12:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,7 +71,8 @@ msgstr ""
 #: ../../source/internal/ci-status.md:15 ../../source/internal/ci-status.md:16
 #: ../../source/internal/ci-status.md:22 ../../source/internal/ci-status.md:23
 #: ../../source/internal/ci-status.md:24 ../../source/internal/ci-status.md:30
-#: ../../source/internal/ci-status.md:31 ../../source/internal/ci-status.md:32
+#: ../../source/internal/ci-status.md:36 ../../source/internal/ci-status.md:37
+#: ../../source/internal/ci-status.md:38
 msgid "pipeline status"
 msgstr ""
 
@@ -243,6 +244,25 @@ msgid ""
 msgstr ""
 
 #: ../../source/internal/ci-status.md:26
+msgid "C++ ツール"
+msgstr "C++ Tools"
+
+#: ../../source/internal/ci-status.md
+msgid "[clang-tidy-checker](https://gitlab.com/MusicScience37/clang-tidy-checker)"
+msgstr ""
+
+#: ../../source/internal/ci-status.md
+msgid "月曜 14:20"
+msgstr "Mon. 14:20"
+
+#: ../../source/internal/ci-status.md
+msgid ""
+"[![pipeline status](https://gitlab.com/MusicScience37/clang-tidy-"
+"checker/badges/develop/pipeline.svg)](https://gitlab.com/MusicScience37"
+"/clang-tidy-checker/-/commits/develop)"
+msgstr ""
+
+#: ../../source/internal/ci-status.md:32
 msgid "ドキュメント"
 msgstr "Documents"
 
