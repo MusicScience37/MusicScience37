@@ -252,7 +252,6 @@ msgid "[clang-tidy-checker](https://gitlab.com/MusicScience37/clang-tidy-checker
 msgstr ""
 
 #: ../../source/internal/ci-status.md
-#, fuzzy
 msgid "月曜 14:20"
 msgstr "Mon. 14:20"
 
