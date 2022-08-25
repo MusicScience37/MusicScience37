@@ -190,3 +190,6 @@ cython_debug/
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
+
+# Translation of internal documents.
+/source/locale/en/LC_MESSAGES/internal
