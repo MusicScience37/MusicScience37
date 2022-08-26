@@ -66,6 +66,8 @@ Contents
     : 本ページのリポジトリ（Sphinx）
   - `TIL <https://gitlab.com/MusicScience37/til>`_
     : 日々の学んだことを書き込んでいくページ（Sphinx）
+  - `My Cheat Sheets <https://gitlab.com/MusicScience37/my-cheat-sheets>`_
+    : 私が欲しいと思ったチートシートを作成するリポジトリ（LaTeX）
 
 .. toctree::
     :caption: Internal

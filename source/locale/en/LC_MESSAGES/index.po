@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicScience37 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-22 12:13+0000\n"
+"POT-Creation-Date: 2022-08-26 14:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
 "Language-Team: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.3\n"
 
-#: ../../source/index.rst:70
+#: ../../source/index.rst:72
 msgid "Internal"
 msgstr ""
 
@@ -77,8 +77,8 @@ msgid ""
 "collection-cpp>`_ : 数値解析のアルゴリズムを実装してためているリポジトリ（C++）"
 msgstr ""
 "`numerical-collection-cpp <https://gitlab.com/MusicScience37/numerical-"
-"collection-cpp>`_ : A collection of algorithms in numerical analysis  "
-"(C++)implemented in C++."
+"collection-cpp>`_ : A collection of algorithms in numerical analysis "
+"implemented in C++. (C++)"
 
 #: ../../source/index.rst:33
 msgid "C++ の開発をサポートするライブラリ"
@@ -116,7 +116,8 @@ msgid ""
 "/clang-tidy/>`_ によるチェックを行うツール（Python）"
 msgstr ""
 "`clang-tidy-checker <https://gitlab.com/MusicScience37/clang-tidy-"
-"checker>`_ : Tool to apply `Clang-Tidy <https://clang.llvm.org/extra/clang-tidy/>`_ to source codes written in C++. (Python)"
+"checker>`_ : Tool to apply `Clang-Tidy <https://clang.llvm.org/extra"
+"/clang-tidy/>`_ to source codes written in C++. (Python)"
 
 #: ../../source/index.rst:46
 msgid "Docker イメージ"
@@ -197,3 +198,11 @@ msgid ""
 msgstr ""
 "`TIL <https://gitlab.com/MusicScience37/til>`_ : My note in Japanese. "
 "(Sphinx)"
+
+#: ../../source/index.rst:69
+msgid ""
+"`My Cheat Sheets <https://gitlab.com/MusicScience37/my-cheat-sheets>`_ : "
+"私が欲しいと思ったチートシートを作成するリポジトリ（LaTeX）"
+msgstr ""
+"`My Cheat Sheets <https://gitlab.com/MusicScience37/my-cheat-sheets>`_ : "
+"My cheat sheets in Japanese. (LaTeX)"
