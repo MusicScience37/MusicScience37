@@ -37,3 +37,9 @@
 | [cpp-stat-bench](https://gitlab.com/MusicScience37/cpp-stat-bench)                     | 金曜 13:20 | develop  | [![pipeline status](https://gitlab.com/MusicScience37/cpp-stat-bench/badges/develop/pipeline.svg)](https://gitlab.com/MusicScience37/cpp-stat-bench/-/commits/develop)                     |
 | [cpp-hash-tables](https://gitlab.com/MusicScience37/cpp-hash-tables)                   | 金曜 14:20 | develop  | [![pipeline status](https://gitlab.com/MusicScience37/cpp-hash-tables/badges/develop/pipeline.svg)](https://gitlab.com/MusicScience37/cpp-hash-tables/-/commits/develop)                   |
 | [numerical-collection-cpp](https://gitlab.com/MusicScience37/numerical-collection-cpp) | 金曜 15:20 | develop  | [![pipeline status](https://gitlab.com/MusicScience37/numerical-collection-cpp/badges/develop/pipeline.svg)](https://gitlab.com/MusicScience37/numerical-collection-cpp/-/commits/develop) |
+
+## テンプレート
+
+| リポジトリ                                                                                       | 自動実行   | ブランチ | ステータス                                                                                                                                                                                     |
+| :----------------------------------------------------------------------------------------------- | :--------- | :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [cookiecutter-my-cpp-templates](https://gitlab.com/MusicScience37/cookiecutter-my-cpp-templates) | 金曜 16:20 | main     | [![pipeline status](https://gitlab.com/MusicScience37/cookiecutter-my-cpp-templates/badges/main/pipeline.svg)](https://gitlab.com/MusicScience37/cookiecutter-my-cpp-templates/-/commits/main) |
