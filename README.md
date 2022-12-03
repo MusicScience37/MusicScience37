@@ -40,3 +40,5 @@
   - [My Cheat Sheets](https://gitlab.com/MusicScience37/my-cheat-sheets)
 - Others
   - [KIcon](https://gitlab.com/MusicScience37/kicon)
+  - [LaTeX Image Generator](https://gitlab.com/MusicScience37/latex-image-generator)
+  - [cookiecutter-my-cpp-templates](https://gitlab.com/MusicScience37/cookiecutter-my-cpp-templates)
