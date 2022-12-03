@@ -29,6 +29,7 @@
 | [TIL](https://gitlab.com/MusicScience37/til)                                         | 木曜 15:20 | master   | [![pipeline status](https://gitlab.com/MusicScience37/til/badges/master/pipeline.svg)](https://gitlab.com/MusicScience37/til/-/commits/master)                                     |
 | [Numerical Analysis Note](https://gitlab.com/MusicScience37/numerical-analysis-note) | 木曜 16:20 | main     | [![pipeline status](https://gitlab.com/MusicScience37/numerical-analysis-note/badges/main/pipeline.svg)](https://gitlab.com/MusicScience37/numerical-analysis-note/-/commits/main) |
 | [My Cheat Sheets](https://gitlab.com/MusicScience37/my-cheat-sheets)                 | 木曜 16:50 | main     | [![pipeline status](https://gitlab.com/MusicScience37/my-cheat-sheets/badges/main/pipeline.svg)](https://gitlab.com/MusicScience37/my-cheat-sheets/-/commits/main)                 |
+| [KIcon](https://gitlab.com/MusicScience37/kicon)                                     | 木曜 16:20 | main     | [![pipeline status](https://gitlab.com/MusicScience37/kicon/badges/main/pipeline.svg)](https://gitlab.com/MusicScience37/kicon/-/commits/main)                                     |
 
 ## C++
 
