@@ -21,7 +21,6 @@
 | :------------------------------------------------------------------------------- | :--------- | :------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [clang-tidy-checker](https://gitlab.com/MusicScience37/clang-tidy-checker)       | 月曜 14:20 | develop  | [![pipeline status](https://gitlab.com/MusicScience37/clang-tidy-checker/badges/develop/pipeline.svg)](https://gitlab.com/MusicScience37/clang-tidy-checker/-/commits/develop)       |
 | [latex-image-generator](https://gitlab.com/MusicScience37/latex-image-generator) | 火曜 16:20 | develop  | [![pipeline status](https://gitlab.com/MusicScience37/latex-image-generator/badges/develop/pipeline.svg)](https://gitlab.com/MusicScience37/latex-image-generator/-/commits/develop) |
-|  |
 
 ## ドキュメント
 
