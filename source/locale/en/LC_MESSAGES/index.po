@@ -90,10 +90,10 @@ msgstr ""
 
 #: ../../source/index.rst:37
 msgid ""
-"`cpp-hash-tables <https://gitlab.com/MusicScience37/cpp-hash-tables>`_ : "
+"`cpp-hash-tables <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables>`_ : "
 "ハッシュテーブルの実装（C++）"
 msgstr ""
-"`cpp-hash-tables <https://gitlab.com/MusicScience37/cpp-hash-tables>`_ : "
+"`cpp-hash-tables <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables>`_ : "
 "Hash tables in C++. (C++)"
 
 #: ../../source/index.rst:39

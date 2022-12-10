@@ -24,7 +24,7 @@
   - [Fluid Simulation](https://gitlab.com/MusicScience37/fluid-simulation)
 - C++ Libraries
   - [cpp-stat-bench](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench)
-  - [cpp-hash-tables](https://gitlab.com/MusicScience37/cpp-hash-tables)
+  - [cpp-hash-tables](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables)
 - C++ Tools
   - [clang-tidy-checker](https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker)
 - Docker Images
