@@ -171,11 +171,9 @@ msgstr ""
 
 #: ../../source/index.rst:60
 msgid ""
-"`sphinx-doxygen-docker <https://gitlab.com/MusicScience37/sphinx-doxygen-"
-"docker>`_ : Sphinx と Doxygen を使用するための Docker イメージ"
+"`sphinx-doxygen-docker <https://gitlab.com/MusicScience37Projects/docker/sphinx-doxygen-docker>`_ : Sphinx と Doxygen を使用するための Docker イメージ"
 msgstr ""
-"`sphinx-doxygen-docker <https://gitlab.com/MusicScience37/sphinx-doxygen-"
-"docker>`_ : Docker image to use Sphinx and Doxygen."
+"`sphinx-doxygen-docker <https://gitlab.com/MusicScience37Projects/docker/sphinx-doxygen-docker>`_ : Docker image to use Sphinx and Doxygen."
 
 #: ../../source/index.rst:63
 msgid "その他"

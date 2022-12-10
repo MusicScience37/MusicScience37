@@ -34,7 +34,7 @@
   - [cpp-base-image-docker](https://gitlab.com/MusicScience37Projects/docker/cpp-base-image-docker)
   - [gcc-ci-docker](https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker)
   - [clang-ci-docker](https://gitlab.com/MusicScience37Projects/docker/clang-ci-docker)
-  - [sphinx-doxygen-docker](https://gitlab.com/MusicScience37/sphinx-doxygen-docker)
+  - [sphinx-doxygen-docker](https://gitlab.com/MusicScience37Projects/docker/sphinx-doxygen-docker)
   - [my-cpp-env-docker](https://gitlab.com/MusicScience37/my-cpp-env-docker)
 - Documents
   - [MusicScience37](https://gitlab.com/MusicScience37/MusicScience37)
