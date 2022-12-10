@@ -28,10 +28,10 @@
 - C++ Tools
   - [clang-tidy-checker](https://gitlab.com/MusicScience37/clang-tidy-checker)
 - Docker Images
-  - [pipenv-docker](https://gitlab.com/MusicScience37/pipenv-docker)
+  - [pipenv-docker](https://gitlab.com/MusicScience37Projects/docker/pipenv-docker)
   - [cloc-docker](https://gitlab.com/MusicScience37/cloc-docker)
   - [texlive-pipenv-docker](https://gitlab.com/MusicScience37/texlive-pipenv-docker)
-  - [cpp-base-image-docker](https://gitlab.com/MusicScience37/cpp-base-image-docker)
+  - [cpp-base-image-docker](https://gitlab.com/MusicScience37Projects/docker/cpp-base-image-docker)
   - [gcc-ci-docker](https://gitlab.com/MusicScience37/gcc-ci-docker)
   - [clang-ci-docker](https://gitlab.com/MusicScience37/clang-ci-docker)
   - [sphinx-doxygen-docker](https://gitlab.com/MusicScience37/sphinx-doxygen-docker)

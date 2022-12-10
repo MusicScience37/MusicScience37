@@ -125,10 +125,10 @@ msgstr "Docker images"
 
 #: ../../source/index.rst:48
 msgid ""
-"`pipenv-docker <https://gitlab.com/MusicScience37/pipenv-docker>`_ : "
+"`pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/pipenv-docker>`_ : "
 "Pipenv を使用するための Docker イメージ"
 msgstr ""
-"`pipenv-docker <https://gitlab.com/MusicScience37/pipenv-docker>`_ : "
+"`pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/pipenv-docker>`_ : "
 "Docker image to use pipenv."
 
 #: ../../source/index.rst:50
@@ -149,11 +149,9 @@ msgstr ""
 
 #: ../../source/index.rst:54
 msgid ""
-"`cpp-base-image-docker <https://gitlab.com/MusicScience37/cpp-base-image-"
-"docker>`_ : C++ の Docker イメージのベースとして共通のものをインストールした Docker イメージ"
+"`cpp-base-image-docker <https://gitlab.com/MusicScience37Projects/docker/cpp-base-image-docker>`_ : C++ の Docker イメージのベースとして共通のものをインストールした Docker イメージ"
 msgstr ""
-"`cpp-base-image-docker <https://gitlab.com/MusicScience37/cpp-base-image-"
-"docker>`_ : Base Docker image for my Docker images for C++."
+"`cpp-base-image-docker <https://gitlab.com/MusicScience37Projects/docker/cpp-base-image-docker>`_ : Base Docker image for my Docker images for C++."
 
 #: ../../source/index.rst:56
 msgid ""

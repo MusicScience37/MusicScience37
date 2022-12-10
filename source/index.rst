@@ -45,13 +45,13 @@ Contents
 
 - Docker イメージ
 
-  - `pipenv-docker <https://gitlab.com/MusicScience37/pipenv-docker>`_
+  - `pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/pipenv-docker>`_
     : Pipenv を使用するための Docker イメージ
   - `cloc-docker <https://gitlab.com/MusicScience37/cloc-docker>`_
     : cloc を使用するための Docker イメージ
   - `texlive-pipenv-docker <https://gitlab.com/MusicScience37/texlive-pipenv-docker>`_
     : TeXLive と Pipenv を使用するための Docker イメージ
-  - `cpp-base-image-docker <https://gitlab.com/MusicScience37/cpp-base-image-docker>`_
+  - `cpp-base-image-docker <https://gitlab.com/MusicScience37Projects/docker/cpp-base-image-docker>`_
     : C++ の Docker イメージのベースとして共通のものをインストールした Docker イメージ
   - `gcc-ci-docker <https://gitlab.com/MusicScience37/gcc-ci-docker>`_
     : GCC による C++ の CI のための Docker イメージ
