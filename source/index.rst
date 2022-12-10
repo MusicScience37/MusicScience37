@@ -25,7 +25,7 @@ Contents
 
 - 数値解析
 
-  - `Numerical Analysis Note <https://gitlab.com/MusicScience37/numerical-analysis-note>`_
+  - `Numerical Analysis Note <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note>`_
     : 数値解析で調査したことを書きまとめていくリポジトリ（LaTeX）
   - `numerical-collection-cpp <https://gitlab.com/MusicScience37/numerical-collection-cpp>`_
     : 数値解析のアルゴリズムを実装してためているリポジトリ（C++）

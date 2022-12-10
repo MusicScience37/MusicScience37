@@ -64,11 +64,9 @@ msgstr "Numerical analysis"
 
 #: ../../source/index.rst:28
 msgid ""
-"`Numerical Analysis Note <https://gitlab.com/MusicScience37/numerical-"
-"analysis-note>`_ : 数値解析で調査したことを書きまとめていくリポジトリ（LaTeX）"
+"`Numerical Analysis Note <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note>`_ : 数値解析で調査したことを書きまとめていくリポジトリ（LaTeX）"
 msgstr ""
-"`Numerical Analysis Note <https://gitlab.com/MusicScience37/numerical-"
-"analysis-note>`_ : Research note about numerical analysis in Japanese. "
+"`Numerical Analysis Note <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note>`_ : Research note about numerical analysis in Japanese. "
 "(LaTeX)"
 
 #: ../../source/index.rst:30
