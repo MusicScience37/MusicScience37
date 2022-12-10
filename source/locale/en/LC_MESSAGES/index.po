@@ -107,12 +107,10 @@ msgstr ""
 
 #: ../../source/index.rst:41
 msgid ""
-"`clang-tidy-checker <https://gitlab.com/MusicScience37/clang-tidy-"
-"checker>`_ : C++ のソースコードに対して `Clang-Tidy <https://clang.llvm.org/extra"
+"`clang-tidy-checker <https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker>`_ : C++ のソースコードに対して `Clang-Tidy <https://clang.llvm.org/extra"
 "/clang-tidy/>`_ によるチェックを行うツール（Python）"
 msgstr ""
-"`clang-tidy-checker <https://gitlab.com/MusicScience37/clang-tidy-"
-"checker>`_ : Tool to apply `Clang-Tidy <https://clang.llvm.org/extra"
+"`clang-tidy-checker <https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker>`_ : Tool to apply `Clang-Tidy <https://clang.llvm.org/extra"
 "/clang-tidy/>`_ to source codes written in C++. (Python)"
 
 #: ../../source/index.rst:46

@@ -26,7 +26,7 @@
   - [cpp-stat-bench](https://gitlab.com/MusicScience37/cpp-stat-bench)
   - [cpp-hash-tables](https://gitlab.com/MusicScience37/cpp-hash-tables)
 - C++ Tools
-  - [clang-tidy-checker](https://gitlab.com/MusicScience37/clang-tidy-checker)
+  - [clang-tidy-checker](https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker)
 - Docker Images
   - [pipenv-docker](https://gitlab.com/MusicScience37Projects/docker/pipenv-docker)
   - [cloc-docker](https://gitlab.com/MusicScience37Projects/docker/cloc-docker)
