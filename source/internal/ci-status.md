@@ -13,7 +13,7 @@
 | [texlive-pipenv-docker](https://gitlab.com/MusicScience37/texlive-pipenv-docker)                | 火曜 15:20 | main     | [![pipeline status](https://gitlab.com/MusicScience37/texlive-pipenv-docker/badges/main/pipeline.svg)](https://gitlab.com/MusicScience37/texlive-pipenv-docker/-/commits/main)                               |
 | [sphinx-doxygen-docker](https://gitlab.com/MusicScience37Projects/docker/sphinx-doxygen-docker) | 水曜 13:20 | main     | [![pipeline status](https://gitlab.com/MusicScience37Projects/docker/sphinx-doxygen-docker/badges/main/pipeline.svg)](https://gitlab.com/MusicScience37Projects/docker/sphinx-doxygen-docker/-/commits/main) |
 | [gcc-ci-docker](https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker)                 | 水曜 15:20 | main     | [![pipeline status](https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker/badges/main/pipeline.svg)](https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker/-/commits/main)                 |
-| [my-cpp-env-docker](https://gitlab.com/MusicScience37/my-cpp-env-docker)                        | 木曜 14:20 | main     | [![pipeline status](https://gitlab.com/MusicScience37/my-cpp-env-docker/badges/main/pipeline.svg)](https://gitlab.com/MusicScience37/my-cpp-env-docker/-/commits/main)                                       |
+| [my-cpp-env-docker](https://gitlab.com/MusicScience37Projects/docker/my-cpp-env-docker)         | 木曜 14:20 | main     | [![pipeline status](https://gitlab.com/MusicScience37Projects/docker/my-cpp-env-docker/badges/main/pipeline.svg)](https://gitlab.com/MusicScience37Projects/docker/my-cpp-env-docker/-/commits/main)         |
 
 ## Python
 
