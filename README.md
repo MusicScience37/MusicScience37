@@ -29,7 +29,7 @@
   - [clang-tidy-checker](https://gitlab.com/MusicScience37/clang-tidy-checker)
 - Docker Images
   - [pipenv-docker](https://gitlab.com/MusicScience37Projects/docker/pipenv-docker)
-  - [cloc-docker](https://gitlab.com/MusicScience37/cloc-docker)
+  - [cloc-docker](https://gitlab.com/MusicScience37Projects/docker/cloc-docker)
   - [texlive-pipenv-docker](https://gitlab.com/MusicScience37/texlive-pipenv-docker)
   - [cpp-base-image-docker](https://gitlab.com/MusicScience37Projects/docker/cpp-base-image-docker)
   - [gcc-ci-docker](https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker)

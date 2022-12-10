@@ -47,7 +47,7 @@ Contents
 
   - `pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/pipenv-docker>`_
     : Pipenv を使用するための Docker イメージ
-  - `cloc-docker <https://gitlab.com/MusicScience37/cloc-docker>`_
+  - `cloc-docker <https://gitlab.com/MusicScience37Projects/docker/cloc-docker>`_
     : cloc を使用するための Docker イメージ
   - `texlive-pipenv-docker <https://gitlab.com/MusicScience37/texlive-pipenv-docker>`_
     : TeXLive と Pipenv を使用するための Docker イメージ
