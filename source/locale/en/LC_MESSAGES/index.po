@@ -155,10 +155,10 @@ msgstr ""
 
 #: ../../source/index.rst:56
 msgid ""
-"`gcc-ci-docker <https://gitlab.com/MusicScience37/gcc-ci-docker>`_ : GCC "
+"`gcc-ci-docker <https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker>`_ : GCC "
 "による C++ の CI のための Docker イメージ"
 msgstr ""
-"`gcc-ci-docker <https://gitlab.com/MusicScience37/gcc-ci-docker>`_ : "
+"`gcc-ci-docker <https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker>`_ : "
 "Docker image to use GCC in CI."
 
 #: ../../source/index.rst:58

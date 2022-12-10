@@ -53,7 +53,7 @@ Contents
     : TeXLive と Pipenv を使用するための Docker イメージ
   - `cpp-base-image-docker <https://gitlab.com/MusicScience37Projects/docker/cpp-base-image-docker>`_
     : C++ の Docker イメージのベースとして共通のものをインストールした Docker イメージ
-  - `gcc-ci-docker <https://gitlab.com/MusicScience37/gcc-ci-docker>`_
+  - `gcc-ci-docker <https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker>`_
     : GCC による C++ の CI のための Docker イメージ
   - `clang-ci-docker <https://gitlab.com/MusicScience37/clang-ci-docker>`_
     : Clang による C++ の CI のための Docker イメージ
