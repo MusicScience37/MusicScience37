@@ -21,7 +21,6 @@
 - Numerical Analysis
   - [Numerical Analysis Note](https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note)
   - [numerical-collection-cpp](https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-collection-cpp)
-  - [Fluid Simulation](https://gitlab.com/MusicScience37/fluid-simulation)
 - C++ Libraries
   - [cpp-stat-bench](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench)
   - [cpp-hash-tables](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables)
