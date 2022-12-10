@@ -19,14 +19,14 @@
 ## Repositories
 
 - Numerical Analysis
-  - [Numerical Analysis Note](https://gitlab.com/MusicScience37/numerical-analysis-note)
-  - [numerical-collection-cpp](https://gitlab.com/MusicScience37/numerical-collection-cpp)
+  - [Numerical Analysis Note](https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note)
+  - [numerical-collection-cpp](https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-collection-cpp)
   - [Fluid Simulation](https://gitlab.com/MusicScience37/fluid-simulation)
 - C++ Libraries
-  - [cpp-stat-bench](https://gitlab.com/MusicScience37/cpp-stat-bench)
-  - [cpp-hash-tables](https://gitlab.com/MusicScience37/cpp-hash-tables)
+  - [cpp-stat-bench](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench)
+  - [cpp-hash-tables](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables)
 - C++ Tools
-  - [clang-tidy-checker](https://gitlab.com/MusicScience37/clang-tidy-checker)
+  - [clang-tidy-checker](https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker)
 - Docker Images
   - [pipenv-docker](https://gitlab.com/MusicScience37Projects/docker/pipenv-docker)
   - [cloc-docker](https://gitlab.com/MusicScience37Projects/docker/cloc-docker)
@@ -42,5 +42,5 @@
   - [My Cheat Sheets](https://gitlab.com/MusicScience37/my-cheat-sheets)
 - Others
   - [KIcon](https://gitlab.com/MusicScience37/kicon)
-  - [LaTeX Image Generator](https://gitlab.com/MusicScience37/latex-image-generator)
-  - [cookiecutter-my-cpp-templates](https://gitlab.com/MusicScience37/cookiecutter-my-cpp-templates)
+  - [LaTeX Image Generator](https://gitlab.com/MusicScience37Projects/tools/latex-image-generator)
+  - [cookiecutter-my-cpp-templates](https://gitlab.com/MusicScience37Projects/templates/cookiecutter-my-cpp-templates)

@@ -25,20 +25,20 @@ Contents
 
 - 数値解析
 
-  - `Numerical Analysis Note <https://gitlab.com/MusicScience37/numerical-analysis-note>`_
+  - `Numerical Analysis Note <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note>`_
     : 数値解析で調査したことを書きまとめていくリポジトリ（LaTeX）
-  - `numerical-collection-cpp <https://gitlab.com/MusicScience37/numerical-collection-cpp>`_
+  - `numerical-collection-cpp <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-collection-cpp>`_
     : 数値解析のアルゴリズムを実装してためているリポジトリ（C++）
 
 - C++ の開発をサポートするライブラリ
 
-  - `cpp-stat-bench <https://gitlab.com/MusicScience37/cpp-stat-bench>`_
+  - `cpp-stat-bench <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench>`_
     : 統計情報に加えてグラフの作成まで行うベンチマークライブラリ（C++）
-  - `cpp-hash-tables <https://gitlab.com/MusicScience37/cpp-hash-tables>`_
+  - `cpp-hash-tables <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables>`_
     : ハッシュテーブルの実装（C++）
   - `conan-extra-packages <https://gitlab.com/MusicScience37/conan-extra-packages>`_
     : Conan Center にない追加の Conan パッケージ（C++）
-  - `clang-tidy-checker <https://gitlab.com/MusicScience37/clang-tidy-checker>`_
+  - `clang-tidy-checker <https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker>`_
     : C++ のソースコードに対して
     `Clang-Tidy <https://clang.llvm.org/extra/clang-tidy/>`_
     によるチェックを行うツール（Python）

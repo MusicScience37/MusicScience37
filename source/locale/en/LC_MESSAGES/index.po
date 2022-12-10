@@ -64,20 +64,16 @@ msgstr "Numerical analysis"
 
 #: ../../source/index.rst:28
 msgid ""
-"`Numerical Analysis Note <https://gitlab.com/MusicScience37/numerical-"
-"analysis-note>`_ : 数値解析で調査したことを書きまとめていくリポジトリ（LaTeX）"
+"`Numerical Analysis Note <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note>`_ : 数値解析で調査したことを書きまとめていくリポジトリ（LaTeX）"
 msgstr ""
-"`Numerical Analysis Note <https://gitlab.com/MusicScience37/numerical-"
-"analysis-note>`_ : Research note about numerical analysis in Japanese. "
+"`Numerical Analysis Note <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note>`_ : Research note about numerical analysis in Japanese. "
 "(LaTeX)"
 
 #: ../../source/index.rst:30
 msgid ""
-"`numerical-collection-cpp <https://gitlab.com/MusicScience37/numerical-"
-"collection-cpp>`_ : 数値解析のアルゴリズムを実装してためているリポジトリ（C++）"
+"`numerical-collection-cpp <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-collection-cpp>`_ : 数値解析のアルゴリズムを実装してためているリポジトリ（C++）"
 msgstr ""
-"`numerical-collection-cpp <https://gitlab.com/MusicScience37/numerical-"
-"collection-cpp>`_ : A collection of algorithms in numerical analysis "
+"`numerical-collection-cpp <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-collection-cpp>`_ : A collection of algorithms in numerical analysis "
 "implemented in C++. (C++)"
 
 #: ../../source/index.rst:33
@@ -86,18 +82,18 @@ msgstr "Libraries to support development in C++"
 
 #: ../../source/index.rst:35
 msgid ""
-"`cpp-stat-bench <https://gitlab.com/MusicScience37/cpp-stat-bench>`_ : "
+"`cpp-stat-bench <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench>`_ : "
 "統計情報に加えてグラフの作成まで行うベンチマークライブラリ（C++）"
 msgstr ""
-"`cpp-stat-bench <https://gitlab.com/MusicScience37/cpp-stat-bench>`_ : "
+"`cpp-stat-bench <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench>`_ : "
 "Benchmark library with statistics and plots for C++. (C++)"
 
 #: ../../source/index.rst:37
 msgid ""
-"`cpp-hash-tables <https://gitlab.com/MusicScience37/cpp-hash-tables>`_ : "
+"`cpp-hash-tables <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables>`_ : "
 "ハッシュテーブルの実装（C++）"
 msgstr ""
-"`cpp-hash-tables <https://gitlab.com/MusicScience37/cpp-hash-tables>`_ : "
+"`cpp-hash-tables <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables>`_ : "
 "Hash tables in C++. (C++)"
 
 #: ../../source/index.rst:39
@@ -111,12 +107,10 @@ msgstr ""
 
 #: ../../source/index.rst:41
 msgid ""
-"`clang-tidy-checker <https://gitlab.com/MusicScience37/clang-tidy-"
-"checker>`_ : C++ のソースコードに対して `Clang-Tidy <https://clang.llvm.org/extra"
+"`clang-tidy-checker <https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker>`_ : C++ のソースコードに対して `Clang-Tidy <https://clang.llvm.org/extra"
 "/clang-tidy/>`_ によるチェックを行うツール（Python）"
 msgstr ""
-"`clang-tidy-checker <https://gitlab.com/MusicScience37/clang-tidy-"
-"checker>`_ : Tool to apply `Clang-Tidy <https://clang.llvm.org/extra"
+"`clang-tidy-checker <https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker>`_ : Tool to apply `Clang-Tidy <https://clang.llvm.org/extra"
 "/clang-tidy/>`_ to source codes written in C++. (Python)"
 
 #: ../../source/index.rst:46
