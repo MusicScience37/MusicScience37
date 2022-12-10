@@ -71,11 +71,9 @@ msgstr ""
 
 #: ../../source/index.rst:30
 msgid ""
-"`numerical-collection-cpp <https://gitlab.com/MusicScience37/numerical-"
-"collection-cpp>`_ : 数値解析のアルゴリズムを実装してためているリポジトリ（C++）"
+"`numerical-collection-cpp <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-collection-cpp>`_ : 数値解析のアルゴリズムを実装してためているリポジトリ（C++）"
 msgstr ""
-"`numerical-collection-cpp <https://gitlab.com/MusicScience37/numerical-"
-"collection-cpp>`_ : A collection of algorithms in numerical analysis "
+"`numerical-collection-cpp <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-collection-cpp>`_ : A collection of algorithms in numerical analysis "
 "implemented in C++. (C++)"
 
 #: ../../source/index.rst:33
