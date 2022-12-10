@@ -55,7 +55,7 @@ Contents
     : C++ の Docker イメージのベースとして共通のものをインストールした Docker イメージ
   - `gcc-ci-docker <https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker>`_
     : GCC による C++ の CI のための Docker イメージ
-  - `clang-ci-docker <https://gitlab.com/MusicScience37/clang-ci-docker>`_
+  - `clang-ci-docker <https://gitlab.com/MusicScience37Projects/docker/clang-ci-docker>`_
     : Clang による C++ の CI のための Docker イメージ
   - `sphinx-doxygen-docker <https://gitlab.com/MusicScience37/sphinx-doxygen-docker>`_
     : Sphinx と Doxygen を使用するための Docker イメージ

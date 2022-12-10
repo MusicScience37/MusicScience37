@@ -163,10 +163,10 @@ msgstr ""
 
 #: ../../source/index.rst:58
 msgid ""
-"`clang-ci-docker <https://gitlab.com/MusicScience37/clang-ci-docker>`_ : "
+"`clang-ci-docker <https://gitlab.com/MusicScience37Projects/docker/clang-ci-docker>`_ : "
 "Clang による C++ の CI のための Docker イメージ"
 msgstr ""
-"`clang-ci-docker <https://gitlab.com/MusicScience37/clang-ci-docker>`_ : "
+"`clang-ci-docker <https://gitlab.com/MusicScience37Projects/docker/clang-ci-docker>`_ : "
 "Docker image to use Clang in CI."
 
 #: ../../source/index.rst:60
