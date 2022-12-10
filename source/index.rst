@@ -32,7 +32,7 @@ Contents
 
 - C++ の開発をサポートするライブラリ
 
-  - `cpp-stat-bench <https://gitlab.com/MusicScience37/cpp-stat-bench>`_
+  - `cpp-stat-bench <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench>`_
     : 統計情報に加えてグラフの作成まで行うベンチマークライブラリ（C++）
   - `cpp-hash-tables <https://gitlab.com/MusicScience37/cpp-hash-tables>`_
     : ハッシュテーブルの実装（C++）

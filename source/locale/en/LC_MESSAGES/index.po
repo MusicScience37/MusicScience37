@@ -82,10 +82,10 @@ msgstr "Libraries to support development in C++"
 
 #: ../../source/index.rst:35
 msgid ""
-"`cpp-stat-bench <https://gitlab.com/MusicScience37/cpp-stat-bench>`_ : "
+"`cpp-stat-bench <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench>`_ : "
 "統計情報に加えてグラフの作成まで行うベンチマークライブラリ（C++）"
 msgstr ""
-"`cpp-stat-bench <https://gitlab.com/MusicScience37/cpp-stat-bench>`_ : "
+"`cpp-stat-bench <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench>`_ : "
 "Benchmark library with statistics and plots for C++. (C++)"
 
 #: ../../source/index.rst:37
