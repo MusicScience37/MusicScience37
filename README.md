@@ -43,4 +43,4 @@
 - Others
   - [KIcon](https://gitlab.com/MusicScience37/kicon)
   - [LaTeX Image Generator](https://gitlab.com/MusicScience37Projects/tools/latex-image-generator)
-  - [cookiecutter-my-cpp-templates](https://gitlab.com/MusicScience37/cookiecutter-my-cpp-templates)
+  - [cookiecutter-my-cpp-templates](https://gitlab.com/MusicScience37Projects/templates/cookiecutter-my-cpp-templates)
