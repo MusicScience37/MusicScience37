@@ -49,7 +49,7 @@ Contents
     : Pipenv を使用するための Docker イメージ
   - `cloc-docker <https://gitlab.com/MusicScience37Projects/docker/cloc-docker>`_
     : cloc を使用するための Docker イメージ
-  - `texlive-pipenv-docker <https://gitlab.com/MusicScience37/texlive-pipenv-docker>`_
+  - `texlive-pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/texlive-pipenv-docker>`_
     : TeXLive と Pipenv を使用するための Docker イメージ
   - `cpp-base-image-docker <https://gitlab.com/MusicScience37Projects/docker/cpp-base-image-docker>`_
     : C++ の Docker イメージのベースとして共通のものをインストールした Docker イメージ

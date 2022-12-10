@@ -141,11 +141,9 @@ msgstr ""
 
 #: ../../source/index.rst:52
 msgid ""
-"`texlive-pipenv-docker <https://gitlab.com/MusicScience37/texlive-pipenv-"
-"docker>`_ : TeXLive と Pipenv を使用するための Docker イメージ"
+"`texlive-pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/texlive-pipenv-docker>`_ : TeXLive と Pipenv を使用するための Docker イメージ"
 msgstr ""
-"`texlive-pipenv-docker <https://gitlab.com/MusicScience37/texlive-pipenv-"
-"docker>`_ : Docker image to use TeXLive and Pipenv."
+"`texlive-pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/texlive-pipenv-docker>`_ : Docker image to use TeXLive and Pipenv."
 
 #: ../../source/index.rst:54
 msgid ""

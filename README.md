@@ -30,7 +30,7 @@
 - Docker Images
   - [pipenv-docker](https://gitlab.com/MusicScience37Projects/docker/pipenv-docker)
   - [cloc-docker](https://gitlab.com/MusicScience37Projects/docker/cloc-docker)
-  - [texlive-pipenv-docker](https://gitlab.com/MusicScience37/texlive-pipenv-docker)
+  - [texlive-pipenv-docker](https://gitlab.com/MusicScience37Projects/docker/texlive-pipenv-docker)
   - [cpp-base-image-docker](https://gitlab.com/MusicScience37Projects/docker/cpp-base-image-docker)
   - [gcc-ci-docker](https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker)
   - [clang-ci-docker](https://gitlab.com/MusicScience37Projects/docker/clang-ci-docker)
