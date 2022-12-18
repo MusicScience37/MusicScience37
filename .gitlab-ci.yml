@@ -14,8 +14,8 @@ pre-commit:
   image: musicscience37/pipenv:jammy
   script:
     - mkdir -p .venv
-    - pipenv sync --dev
-    - pipenv run pre-commit run --all-files
+    - poetry install
+    - poetry run pre-commit run --all-files
   needs: []
 
 build:
@@ -23,9 +23,9 @@ build:
   image: musicscience37/pipenv:jammy
   script:
     - mkdir -p .venv
-    - pipenv sync
-    - pipenv run python3 ./tool.py build -l ja
-    - pipenv run python3 ./tool.py build -l en
+    - poetry install
+    - poetry run python3 ./tool.py build -l ja
+    - poetry run python3 ./tool.py build -l en
   artifacts:
     paths:
       - build
