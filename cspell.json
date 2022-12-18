@@ -16,7 +16,8 @@
     "Pipfile",
     "texlive",
     "toctree",
-    "venv"
+    "venv",
+    "virtualenvs"
   ],
   "ignoreWords": [],
   "import": []
