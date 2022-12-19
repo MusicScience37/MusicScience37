@@ -13,19 +13,35 @@ pre-commit:
   stage: test
   image: musicscience37/pipenv:jammy
   script:
-    - mkdir -p .venv
-    - pipenv sync --dev
-    - pipenv run pre-commit run --all-files
+    - poetry config virtualenvs.in-project true
+    - poetry env use 3.10
+    - poetry install
+    - poetry run pre-commit run --all-files
+  cache:
+    key:
+      prefix: poetry-linux
+      files:
+        - poetry.lock
+    paths:
+      - .venv
   needs: []
 
 build:
   stage: build
   image: musicscience37/pipenv:jammy
   script:
-    - mkdir -p .venv
-    - pipenv sync
-    - pipenv run python3 ./tool.py build -l ja
-    - pipenv run python3 ./tool.py build -l en
+    - poetry config virtualenvs.in-project true
+    - poetry env use 3.10
+    - poetry install
+    - poetry run python3 ./tool.py build -l ja
+    - poetry run python3 ./tool.py build -l en
+  cache:
+    key:
+      prefix: poetry-linux
+      files:
+        - poetry.lock
+    paths:
+      - .venv
   artifacts:
     paths:
       - build

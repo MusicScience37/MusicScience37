@@ -5,7 +5,7 @@
 1. 翻訳を記載するファイルの作成
 
    ```bash
-   pipenv shell
+   poetry shell
    ./tool.py update
    ```
 
@@ -49,7 +49,7 @@
 
    ```bash
    cd <本リポジトリのルートディレクトリ>
-   pipenv shell
+   poetry shell
    cd source
    sphinx-intl update -p ../build/gettext/ -l en
    ```
