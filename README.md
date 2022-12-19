@@ -1,7 +1,5 @@
 # MusicScience37
 
-**NOTE**: Currently moving projects in GitLab from MusicScience37 namespace to [MusicScience37 Projects](https://gitlab.com/MusicScience37Projects) namespace.
-
 ## Profile
 
 ### In English
