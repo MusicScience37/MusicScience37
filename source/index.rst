@@ -84,6 +84,14 @@ MusicScience37
     research/papers
 
 .. toctree::
+    :caption: 音楽
+    :maxdepth: 1
+    :hidden:
+
+    music/recordings
+    music/compositions
+
+.. toctree::
     :caption: Internal
     :maxdepth: 1
     :hidden:

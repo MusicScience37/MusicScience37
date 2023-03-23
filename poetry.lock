@@ -1546,6 +1546,25 @@ lint = ["docutils-stubs", "flake8", "mypy"]
 test = ["pytest"]
 
 [[package]]
+name = "sphinxcontrib-youtube"
+version = "1.2.0"
+description = "Sphinx \"youtube\" extension"
+category = "main"
+optional = false
+python-versions = "*"
+files = [
+    {file = "sphinxcontrib-youtube-1.2.0.tar.gz", hash = "sha256:f468b76550e926c6d918c97b921d6ccc8ec6bc13004746dea309788ea9268991"},
+    {file = "sphinxcontrib_youtube-1.2.0-py3-none-any.whl", hash = "sha256:fcc9301b5df3269597310c1ab41806b25fb7bfe41b0344aa8871dbd820d08ca4"},
+]
+
+[package.dependencies]
+requests = "*"
+Sphinx = ">=0.6"
+
+[package.extras]
+doc = ["furo", "sphinx-copybutton"]
+
+[[package]]
 name = "sphinxext-opengraph"
 version = "0.8.1"
 description = "Sphinx Extension to enable OGP support"
@@ -1759,4 +1778,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10,<3.11"
-content-hash = "3f919c351d5546d39c7fd81e029371b8910120ae437cd3ee301fc86ad80d2183"
+content-hash = "1f09a01c8ef46a9fbbfe9a7f5f200885da5638f1d621525b2d973833579d80c8"

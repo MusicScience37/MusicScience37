@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, MusicScience37 (Kenta Kabashima)
+# This file is distributed under the same license as the MusicScience37
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MusicScience37 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-23 15:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
+"Language: en\n"
+"Language-Team: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/music/recordings.rst:2
+msgid "録音"
+msgstr "Recordings"
+
+#: ../../source/music/recordings.rst:4
+msgid "タイトルの後の括弧内は公開した年と編成を記載しています。"
+msgstr "The year of publication "
+"is shown in parentheses after each title."
+
+#: ../../source/music/recordings.rst:6
+msgid ""
+"`6 Sonatas for 2 Flutes - Sonata 1 - 1st movement / J.B. Loeillet "
+"<https://youtu.be/aIVJh4DU-CM>`_ （2017, アルトリコーダー二重奏）"
+msgstr ""
+"`6 Sonatas for 2 Flutes - Sonata 1 - 1st movement / J.B. Loeillet "
+"<https://youtu.be/aIVJh4DU-CM>`_ (2017, duet of alto recorders)"
