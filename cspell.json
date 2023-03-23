@@ -6,6 +6,8 @@
   "words": [
     "autobuild",
     "backlinks",
+    "bibfiles",
+    "bibtex",
     "cloc",
     "cookiecutter",
     "Doxygen",
@@ -22,9 +24,11 @@
     "pipenv",
     "Pipfile",
     "pylint",
+    "sphinxcontrib",
     "sphinxext",
     "texlive",
     "toctree",
+    "unsrt",
     "venv",
     "virtualenvs"
   ],

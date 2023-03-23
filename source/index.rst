@@ -71,14 +71,21 @@ MusicScience37
 
 .. toctree::
     :caption: ソフトウェア開発
-    :maxdepth: 2
+    :maxdepth: 1
     :hidden:
 
     software/repositories
 
 .. toctree::
+    :caption: 研究
+    :maxdepth: 1
+    :hidden:
+
+    research/papers
+
+.. toctree::
     :caption: Internal
-    :maxdepth: 2
+    :maxdepth: 1
     :hidden:
 
     internal/ci-status

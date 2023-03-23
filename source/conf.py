@@ -46,6 +46,13 @@ ogp_site_name = "MusicScience37"
 ogp_image = "https://kicon.musicscience37.com/KIcon128white.png"
 
 
+# setting of sphinxcontrib-bibtex
+# https://sphinxcontrib-bibtex.readthedocs.io
+extensions += ["sphinxcontrib.bibtex"]
+bibtex_bibfiles = ["research/papers.bib"]
+bibtex_default_style = "unsrt"
+
+
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for

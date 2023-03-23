@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicScience37 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-23 13:19+0000\n"
+"POT-Creation-Date: 2023-03-23 14:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
 "Language: en\n"
@@ -25,6 +25,10 @@ msgid "ソフトウェア開発"
 msgstr "Software Development"
 
 #: ../../source/index.rst:79
+msgid "研究"
+msgstr "Research"
+
+#: ../../source/index.rst:86
 msgid "Internal"
 msgstr ""
 
