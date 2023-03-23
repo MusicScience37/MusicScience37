@@ -1,73 +1,80 @@
+:og:description: 仕事でソフトウェア開発をしつつ、プライベートでもプログラミングしたり、音楽を楽しんだりしています。
+
+.. meta::
+    :description: 仕事でソフトウェア開発をしつつ、プライベートでもプログラミングしたり、音楽を楽しんだりしています。
+
 MusicScience37
 ====================
 
-Contents
------------------
+仕事でソフトウェア開発をしつつ、
+プライベートでもプログラミングしたり、
+音楽を楽しんだりしています。
 
-- :ref:`index_programming`
+`English version of this page <https://www.musicscience37.com/en/>`_.
 
-  - :ref:`index_programming_repositories`
+ソフトウェア開発
+--------------------
 
-- `English version of this page <https://www.musicscience37.com/en/>`_.
-
-.. _index_programming:
-
-プログラミング
--------------------
-
-- 主な言語：C++, Python
-- 興味のあること：数値計算など
-
-.. _index_programming_repositories:
-
-主なリポジトリ
-....................
+- 言語：C++, Python
 
 - 数値解析
 
-  - `Numerical Analysis Note <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note>`_
-    : 数値解析で調査したことを書きまとめていくリポジトリ（LaTeX）
-  - `numerical-collection-cpp <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-collection-cpp>`_
-    : 数値解析のアルゴリズムを実装してためているリポジトリ（C++）
+  - 数値解析ノート
+    : 数値解析で調査したことを整理するノート
+    [`PDF <https://numanalnote.musicscience37.com/numerical-analysis-note.pdf>`__]
+    [`GitLab <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note>`__]
+    [`GitHub (Mirror) <https://github.com/MusicScience37/numerical-analysis-note>`__]
 
-- C++ の開発をサポートするライブラリ
+  - numerical-collection-cpp
+    : 数値解析のアルゴリズムを C++ で実装しているリポジトリ
+    [`GitLab <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-collection-cpp>`__]
+    [`GitHub (Mirror) <https://github.com/MusicScience37/numerical-collection-cpp>`__]
 
-  - `cpp-stat-bench <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench>`_
-    : 統計情報に加えてグラフの作成まで行うベンチマークライブラリ（C++）
-  - `cpp-hash-tables <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables>`_
-    : ハッシュテーブルの実装（C++）
-  - `conan-extra-packages <https://gitlab.com/MusicScience37/conan-extra-packages>`_
-    : Conan Center にない追加の Conan パッケージ（C++）
-  - `clang-tidy-checker <https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker>`_
-    : C++ のソースコードに対して
-    `Clang-Tidy <https://clang.llvm.org/extra/clang-tidy/>`_
-    によるチェックを行うツール（Python）
+- C++
 
-- Docker イメージ
+  - cpp-stat-bench
+    : 統計情報に加えてグラフの作成まで行うベンチマークライブラリ
+    [`GitLab <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench>`__]
+    [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-stat-bench>`__]
 
-  - `pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/pipenv-docker>`_
-    : Pipenv を使用するための Docker イメージ
-  - `cloc-docker <https://gitlab.com/MusicScience37Projects/docker/cloc-docker>`_
-    : cloc を使用するための Docker イメージ
-  - `texlive-pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/texlive-pipenv-docker>`_
-    : TeXLive と Pipenv を使用するための Docker イメージ
-  - `cpp-base-image-docker <https://gitlab.com/MusicScience37Projects/docker/cpp-base-image-docker>`_
-    : C++ の Docker イメージのベースとして共通のものをインストールした Docker イメージ
-  - `gcc-ci-docker <https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker>`_
-    : GCC による C++ の CI のための Docker イメージ
-  - `clang-ci-docker <https://gitlab.com/MusicScience37Projects/docker/clang-ci-docker>`_
-    : Clang による C++ の CI のための Docker イメージ
-  - `sphinx-doxygen-docker <https://gitlab.com/MusicScience37Projects/docker/sphinx-doxygen-docker>`_
-    : Sphinx と Doxygen を使用するための Docker イメージ
+  - cpp-hash-tables
+    : ハッシュテーブルの実装
+    [`GitLab <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables>`__]
+    [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-hash-tables>`__]
 
 - その他
 
-  - `MusicScience37 <https://gitlab.com/MusicScience37/MusicScience37>`_
-    : 本ページのリポジトリ（Sphinx）
-  - `TIL <https://gitlab.com/MusicScience37/til>`_
-    : 日々の学んだことを書き込んでいくページ（Sphinx）
-  - `My Cheat Sheets <https://gitlab.com/MusicScience37/my-cheat-sheets>`_
-    : 私が欲しいと思ったチートシートを作成するリポジトリ（LaTeX）
+  - TIL
+    : 日々の学んだことを書き込んでいくページ
+    [`Web <https://til.musicscience37.com/>`__]
+    [`GitLab <https://gitlab.com/MusicScience37/til>`__]
+    [`GitHub (Mirror) <https://github.com/MusicScience37/TIL>`__]
+
+- :ref:`software_repositories`
+
+音楽
+-------------
+
+- 声楽（2013年～）
+- ホルン（2007年～2010年、2013年～2017年）
+- 作編曲（時期不明～）
+
+アイコン
+------------------
+
+本ページにも使用している私のアイコンについては
+`KIcon <https://kicon.musicscience37.com/ja/>`_
+を参照。
+
+.. image:: https://kicon.musicscience37.com/KIcon512.png
+    :width: 120px
+
+.. toctree::
+    :caption: ソフトウェア開発
+    :maxdepth: 2
+    :hidden:
+
+    software/repositories
 
 .. toctree::
     :caption: Internal

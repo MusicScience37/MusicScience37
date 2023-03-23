@@ -9,188 +9,148 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicScience37 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-26 14:52+0000\n"
+"POT-Creation-Date: 2023-03-23 13:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
+"Language: en\n"
 "Language-Team: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.3\n"
+"Generated-By: Babel 2.12.1\n"
 
-#: ../../source/index.rst:72
+#: ../../source/index.rst:16 ../../source/index.rst:72
+msgid "ソフトウェア開発"
+msgstr "Software Development"
+
+#: ../../source/index.rst:79
 msgid "Internal"
 msgstr ""
 
-#: ../../source/index.rst:2
+#: ../../source/index.rst:-1
+msgid "仕事でソフトウェア開発をしつつ、プライベートでもプログラミングしたり、音楽を楽しんだりしています。"
+msgstr "Software development in my work and life. Also I like music."
+
+#: ../../source/index.rst:7
 msgid "MusicScience37"
 msgstr "MusicScience37"
 
-#: ../../source/index.rst:5
-msgid "Contents"
-msgstr ""
-
-#: ../../source/index.rst:7
-msgid ":ref:`index_programming`"
-msgstr ""
-
 #: ../../source/index.rst:9
-msgid ":ref:`index_programming_repositories`"
-msgstr ""
+msgid "仕事でソフトウェア開発をしつつ、 プライベートでもプログラミングしたり、 音楽を楽しんだりしています。"
+msgstr "Software development in my work and life. Also I like music."
 
-#: ../../source/index.rst:11
+#: ../../source/index.rst:13
 msgid "`English version of this page <https://www.musicscience37.com/en/>`_."
-msgstr "`Link to Japanese page <https://www.musicscience37.com/ja/>`_."
-
-#: ../../source/index.rst:16
-msgid "プログラミング"
-msgstr "Programming"
+msgstr "`日本語のページへのリンク <https://www.musicscience37.com/ja/>`_"
 
 #: ../../source/index.rst:18
-msgid "主な言語：C++, Python"
-msgstr "Main languages: C++, Python."
+msgid "言語：C++, Python"
+msgstr "Languages: C++, Python."
 
-#: ../../source/index.rst:19
-msgid "興味のあること：数値計算など"
-msgstr "Interests: Numerical analysis, and so on..."
-
-#: ../../source/index.rst:24
-msgid "主なリポジトリ"
-msgstr "Repositories"
-
-#: ../../source/index.rst:26
+#: ../../source/index.rst:20
 msgid "数値解析"
 msgstr "Numerical analysis"
 
+#: ../../source/index.rst:22
+msgid ""
+"数値解析ノート : 数値解析で調査したことを整理するノート [`PDF "
+"<https://numanalnote.musicscience37.com/numerical-analysis-note.pdf>`__] "
+"[`GitLab <https://gitlab.com/MusicScience37Projects/numerical-analysis"
+"/numerical-analysis-note>`__] [`GitHub (Mirror) "
+"<https://github.com/MusicScience37/numerical-analysis-note>`__]"
+msgstr ""
+"Numerical Analysis Note : (For Japanese) Research note about numerical "
+"analysis in Japanese. [`PDF <https://numanalnote.musicscience37.com"
+"/numerical-analysis-note.pdf>`__] [`GitLab "
+"<https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-"
+"analysis-note>`__] [`GitHub (Mirror) <https://github.com/MusicScience37"
+"/numerical-analysis-note>`__]"
+
 #: ../../source/index.rst:28
 msgid ""
-"`Numerical Analysis Note <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note>`_ : 数値解析で調査したことを書きまとめていくリポジトリ（LaTeX）"
+"numerical-collection-cpp : 数値解析のアルゴリズムを C++ で実装しているリポジトリ [`GitLab "
+"<https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-"
+"collection-cpp>`__] [`GitHub (Mirror) <https://github.com/MusicScience37"
+"/numerical-collection-cpp>`__]"
 msgstr ""
-"`Numerical Analysis Note <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note>`_ : Research note about numerical analysis in Japanese. "
-"(LaTeX)"
-
-#: ../../source/index.rst:30
-msgid ""
-"`numerical-collection-cpp <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-collection-cpp>`_ : 数値解析のアルゴリズムを実装してためているリポジトリ（C++）"
-msgstr ""
-"`numerical-collection-cpp <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-collection-cpp>`_ : A collection of algorithms in numerical analysis "
-"implemented in C++. (C++)"
+"numerical-collection-cpp : A collection of algorithms in numerical "
+"analysis implemented in C++. [`GitLab "
+"<https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-"
+"collection-cpp>`__] [`GitHub (Mirror) <https://github.com/MusicScience37"
+"/numerical-collection-cpp>`__]"
 
 #: ../../source/index.rst:33
-msgid "C++ の開発をサポートするライブラリ"
-msgstr "Libraries to support development in C++"
+msgid "C++"
+msgstr ""
 
 #: ../../source/index.rst:35
 msgid ""
-"`cpp-stat-bench <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench>`_ : "
-"統計情報に加えてグラフの作成まで行うベンチマークライブラリ（C++）"
+"cpp-stat-bench : 統計情報に加えてグラフの作成まで行うベンチマークライブラリ [`GitLab "
+"<https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-"
+"bench>`__] [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-stat-"
+"bench>`__]"
 msgstr ""
-"`cpp-stat-bench <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench>`_ : "
-"Benchmark library with statistics and plots for C++. (C++)"
+"cpp-stat-bench : Benchmark library with statistics and plotting. [`GitLab"
+" <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-"
+"bench>`__] [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-stat-"
+"bench>`__]"
 
-#: ../../source/index.rst:37
+#: ../../source/index.rst:40
 msgid ""
-"`cpp-hash-tables <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables>`_ : "
-"ハッシュテーブルの実装（C++）"
+"cpp-hash-tables : ハッシュテーブルの実装 [`GitLab "
+"<https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-"
+"tables>`__] [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-"
+"hash-tables>`__]"
 msgstr ""
-"`cpp-hash-tables <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables>`_ : "
-"Hash tables in C++. (C++)"
+"cpp-hash-tables : Hash tables in C++. [`GitLab "
+"<https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-"
+"tables>`__] [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-"
+"hash-tables>`__]"
 
-#: ../../source/index.rst:39
-msgid ""
-"`conan-extra-packages <https://gitlab.com/MusicScience37/conan-extra-"
-"packages>`_ : Conan Center にない追加の Conan パッケージ（C++）"
-msgstr ""
-"`conan-extra-packages <https://gitlab.com/MusicScience37/conan-extra-"
-"packages>`_ : Conan packages which are not in Conan Center now, but I "
-"want to use. (C++)"
-
-#: ../../source/index.rst:41
-msgid ""
-"`clang-tidy-checker <https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker>`_ : C++ のソースコードに対して `Clang-Tidy <https://clang.llvm.org/extra"
-"/clang-tidy/>`_ によるチェックを行うツール（Python）"
-msgstr ""
-"`clang-tidy-checker <https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker>`_ : Tool to apply `Clang-Tidy <https://clang.llvm.org/extra"
-"/clang-tidy/>`_ to source codes written in C++. (Python)"
-
-#: ../../source/index.rst:46
-msgid "Docker イメージ"
-msgstr "Docker images"
-
-#: ../../source/index.rst:48
-msgid ""
-"`pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/pipenv-docker>`_ : "
-"Pipenv を使用するための Docker イメージ"
-msgstr ""
-"`pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/pipenv-docker>`_ : "
-"Docker image to use pipenv."
-
-#: ../../source/index.rst:50
-msgid ""
-"`cloc-docker <https://gitlab.com/MusicScience37Projects/docker/cloc-docker>`_ : cloc "
-"を使用するための Docker イメージ"
-msgstr ""
-"`cloc-docker <https://gitlab.com/MusicScience37Projects/docker/cloc-docker>`_ : Docker "
-"image to use cloc."
-
-#: ../../source/index.rst:52
-msgid ""
-"`texlive-pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/texlive-pipenv-docker>`_ : TeXLive と Pipenv を使用するための Docker イメージ"
-msgstr ""
-"`texlive-pipenv-docker <https://gitlab.com/MusicScience37Projects/docker/texlive-pipenv-docker>`_ : Docker image to use TeXLive and Pipenv."
-
-#: ../../source/index.rst:54
-msgid ""
-"`cpp-base-image-docker <https://gitlab.com/MusicScience37Projects/docker/cpp-base-image-docker>`_ : C++ の Docker イメージのベースとして共通のものをインストールした Docker イメージ"
-msgstr ""
-"`cpp-base-image-docker <https://gitlab.com/MusicScience37Projects/docker/cpp-base-image-docker>`_ : Base Docker image for my Docker images for C++."
-
-#: ../../source/index.rst:56
-msgid ""
-"`gcc-ci-docker <https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker>`_ : GCC "
-"による C++ の CI のための Docker イメージ"
-msgstr ""
-"`gcc-ci-docker <https://gitlab.com/MusicScience37Projects/docker/gcc-ci-docker>`_ : "
-"Docker image to use GCC in CI."
-
-#: ../../source/index.rst:58
-msgid ""
-"`clang-ci-docker <https://gitlab.com/MusicScience37Projects/docker/clang-ci-docker>`_ : "
-"Clang による C++ の CI のための Docker イメージ"
-msgstr ""
-"`clang-ci-docker <https://gitlab.com/MusicScience37Projects/docker/clang-ci-docker>`_ : "
-"Docker image to use Clang in CI."
-
-#: ../../source/index.rst:60
-msgid ""
-"`sphinx-doxygen-docker <https://gitlab.com/MusicScience37Projects/docker/sphinx-doxygen-docker>`_ : Sphinx と Doxygen を使用するための Docker イメージ"
-msgstr ""
-"`sphinx-doxygen-docker <https://gitlab.com/MusicScience37Projects/docker/sphinx-doxygen-docker>`_ : Docker image to use Sphinx and Doxygen."
-
-#: ../../source/index.rst:63
+#: ../../source/index.rst:45
 msgid "その他"
 msgstr "Others"
 
+#: ../../source/index.rst:47
+msgid ""
+"TIL : 日々の学んだことを書き込んでいくページ [`Web <https://til.musicscience37.com/>`__] "
+"[`GitLab <https://gitlab.com/MusicScience37/til>`__] [`GitHub (Mirror) "
+"<https://github.com/MusicScience37/TIL>`__]"
+msgstr ""
+"TIL : (For Japanese) My note in Japanese. [`Web "
+"<https://til.musicscience37.com/>`__] [`GitLab "
+"<https://gitlab.com/MusicScience37/til>`__] [`GitHub (Mirror) "
+"<https://github.com/MusicScience37/TIL>`__]"
+
+#: ../../source/index.rst:53
+msgid ":ref:`software_repositories`"
+msgstr ""
+
+#: ../../source/index.rst:56
+msgid "音楽"
+msgstr "Music"
+
+#: ../../source/index.rst:58
+msgid "声楽（2013年～）"
+msgstr "Vocal (since 2013)"
+
+#: ../../source/index.rst:59
+msgid "ホルン（2007年～2010年、2013年～2017年）"
+msgstr "Horn (2007-2010, 2013-2017)"
+
+#: ../../source/index.rst:60
+msgid "作編曲（時期不明～）"
+msgstr "Composition and arrangement (since unknown time)"
+
+#: ../../source/index.rst:63
+msgid "アイコン"
+msgstr "My Icon"
+
 #: ../../source/index.rst:65
 msgid ""
-"`MusicScience37 <https://gitlab.com/MusicScience37/MusicScience37>`_ : "
-"本ページのリポジトリ（Sphinx）"
+"本ページにも使用している私のアイコンについては `KIcon <https://kicon.musicscience37.com/ja/>`_ "
+"を参照。"
 msgstr ""
-"`MusicScience37 <https://gitlab.com/MusicScience37/MusicScience37>`_ : "
-"This page. (Sphinx)"
-
-#: ../../source/index.rst:67
-msgid ""
-"`TIL <https://gitlab.com/MusicScience37/til>`_ : "
-"日々の学んだことを書き込んでいくページ（Sphinx）"
-msgstr ""
-"`TIL <https://gitlab.com/MusicScience37/til>`_ : My note in Japanese. "
-"(Sphinx)"
-
-#: ../../source/index.rst:69
-msgid ""
-"`My Cheat Sheets <https://gitlab.com/MusicScience37/my-cheat-sheets>`_ : "
-"私が欲しいと思ったチートシートを作成するリポジトリ（LaTeX）"
-msgstr ""
-"`My Cheat Sheets <https://gitlab.com/MusicScience37/my-cheat-sheets>`_ : "
-"My cheat sheets in Japanese. (LaTeX)"
+"For my icon used in this page, see `KIcon "
+"<https://kicon.musicscience37.com/en/>`_."

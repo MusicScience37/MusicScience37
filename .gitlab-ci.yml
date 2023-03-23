@@ -26,6 +26,22 @@ pre-commit:
       - .venv
   needs: []
 
+spell check:
+  stage: test
+  needs: []
+  image: node
+  script:
+    - npm install -g cspell
+    - cspell lint
+      "**/*.py"
+      "**/*.txt"
+      "**/*.md"
+      "**/*.rst"
+      "**/*.bib"
+      "**/*.yaml"
+      "**/*.json"
+      "**/*.sh"
+
 build:
   stage: build
   image: musicscience37/pipenv:jammy
@@ -55,8 +71,7 @@ pages:
     - mkdir -p public
     - mv build/ja/html public/ja
     - mv build/en/html public/en
-    - cp source/KIcon/KIcon.ico public/favicon.ico
-    - cp source/KIcon/KIcon128white.png public/KIcon128white.png
+    - wget -nv https://kicon.musicscience37.com/KIcon.ico -O public/favicon.ico
   artifacts:
     paths:
       - public
