@@ -4,6 +4,7 @@
   "dictionaryDefinitions": [],
   "dictionaries": [],
   "words": [
+    "backlinks",
     "cloc",
     "cookiecutter",
     "Doxygen",
@@ -11,7 +12,10 @@
     "Kenta",
     "maxdepth",
     "mkdir",
+    "msgid",
+    "msgstr",
     "MusicScience37",
+    "nplurals",
     "pipenv",
     "Pipfile",
     "texlive",
