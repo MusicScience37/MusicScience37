@@ -14,7 +14,8 @@
         "janisdd.vscode-edit-csv",
         "mrorz.language-gettext",
         "tamasfe.even-better-toml",
-        "redhat.vscode-yaml"
+        "redhat.vscode-yaml",
+        "james-yu.latex-workshop"
       ]
     }
   },

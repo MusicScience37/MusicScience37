@@ -55,7 +55,7 @@ MusicScience37
 音楽
 -------------
 
-- 声楽（2013年～）
+- テノール（2013年～）
 - ホルン（2007年～2010年、2013年～2017年）
 - 作編曲（時期不明～）
 
@@ -71,14 +71,29 @@ MusicScience37
 
 .. toctree::
     :caption: ソフトウェア開発
-    :maxdepth: 2
+    :maxdepth: 1
     :hidden:
 
     software/repositories
 
 .. toctree::
+    :caption: 研究
+    :maxdepth: 1
+    :hidden:
+
+    research/papers
+
+.. toctree::
+    :caption: 音楽
+    :maxdepth: 1
+    :hidden:
+
+    music/recordings
+    music/compositions
+
+.. toctree::
     :caption: Internal
-    :maxdepth: 2
+    :maxdepth: 1
     :hidden:
 
     internal/ci-status

@@ -5,7 +5,8 @@ RUN apt-get update && \
     openssh-client \
     gnupg2 \
     vim \
-    nano && \
+    nano \
+    texlive-base && \
     apt-get autoremove && \
     apt-get autoclean && \
     rm -r /var/lib/apt/lists/*

@@ -27,7 +27,10 @@ author = "MusicScience37"
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ["myst_parser"]
+extensions = [
+    "myst_parser",
+    "sphinxcontrib.youtube",
+]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
@@ -44,6 +47,13 @@ extensions += ["sphinxext.opengraph"]
 ogp_site_url = "https://www.musicscience37.com/ja/"
 ogp_site_name = "MusicScience37"
 ogp_image = "https://kicon.musicscience37.com/KIcon128white.png"
+
+
+# setting of sphinxcontrib-bibtex
+# https://sphinxcontrib-bibtex.readthedocs.io
+extensions += ["sphinxcontrib.bibtex"]
+bibtex_bibfiles = ["research/papers.bib"]
+bibtex_default_style = "unsrt"
 
 
 # -- Options for HTML output -------------------------------------------------

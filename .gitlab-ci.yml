@@ -37,7 +37,6 @@ spell check:
       "**/*.txt"
       "**/*.md"
       "**/*.rst"
-      "**/*.bib"
       "**/*.yaml"
       "**/*.json"
       "**/*.sh"
@@ -46,6 +45,8 @@ build:
   stage: build
   image: musicscience37/pipenv:jammy
   script:
+    - apt-get update
+    - apt-get install -y --no-install-recommends texlive-base
     - poetry config virtualenvs.in-project true
     - poetry env use 3.10
     - poetry install
