@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicScience37 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-23 14:23+0000\n"
+"POT-Creation-Date: 2023-03-23 14:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
 "Language: en\n"
@@ -136,8 +136,8 @@ msgid "音楽"
 msgstr "Music"
 
 #: ../../source/index.rst:58
-msgid "声楽（2013年～）"
-msgstr "Vocal (since 2013)"
+msgid "テノール（2013年～）"
+msgstr "Tenor (since 2013)"
 
 #: ../../source/index.rst:59
 msgid "ホルン（2007年～2010年、2013年～2017年）"
