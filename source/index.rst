@@ -47,6 +47,23 @@ MusicScience37
 
 - :ref:`software_repositories`
 
+音楽
+-------------
+
+- 声楽（2013年～）
+- ホルン（2007年～2010年、2013年～2017年）
+- 作編曲（時期不明～）
+
+アイコン
+------------------
+
+本ページにも使用している私のアイコンについては
+`KIcon <https://kicon.musicscience37.com/ja/>`_
+を参照。
+
+.. image:: https://kicon.musicscience37.com/KIcon512.png
+    :width: 120px
+
 .. toctree::
     :caption: ソフトウェア開発
     :maxdepth: 2
