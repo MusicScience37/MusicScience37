@@ -66,7 +66,7 @@ build:
 
 pages:
   stage: deploy
-  image: ubuntu
+  image: alpine
   script:
     - mkdir -p public
     - mv build/ja/html public/ja
