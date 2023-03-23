@@ -71,8 +71,7 @@ pages:
     - mkdir -p public
     - mv build/ja/html public/ja
     - mv build/en/html public/en
-    - cp source/KIcon/KIcon.ico public/favicon.ico
-    - cp source/KIcon/KIcon128white.png public/KIcon128white.png
+    - wget -nv https://kicon.musicscience37.com/KIcon.ico -O public/favicon.ico
   artifacts:
     paths:
       - public
