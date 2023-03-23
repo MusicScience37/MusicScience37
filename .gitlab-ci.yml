@@ -26,6 +26,22 @@ pre-commit:
       - .venv
   needs: []
 
+spell check:
+  stage: test
+  needs: []
+  image: node
+  script:
+    - npm install -g cspell
+    - cspell lint
+      "**/*.py"
+      "**/*.txt"
+      "**/*.md"
+      "**/*.rst"
+      "**/*.bib"
+      "**/*.yaml"
+      "**/*.json"
+      "**/*.sh"
+
 build:
   stage: build
   image: musicscience37/pipenv:jammy
