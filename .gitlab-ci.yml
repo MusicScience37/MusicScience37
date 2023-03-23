@@ -37,7 +37,6 @@ spell check:
       "**/*.txt"
       "**/*.md"
       "**/*.rst"
-      "**/*.bib"
       "**/*.yaml"
       "**/*.json"
       "**/*.sh"
