@@ -15,7 +15,8 @@
         "mrorz.language-gettext",
         "tamasfe.even-better-toml",
         "redhat.vscode-yaml",
-        "james-yu.latex-workshop"
+        "james-yu.latex-workshop",
+        "ms-python.black-formatter"
       ]
     }
   },
