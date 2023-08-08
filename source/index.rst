@@ -77,13 +77,6 @@ MusicScience37
     software/repositories
 
 .. toctree::
-    :caption: 研究
-    :maxdepth: 1
-    :hidden:
-
-    research/papers
-
-.. toctree::
     :caption: 音楽
     :maxdepth: 1
     :hidden:
