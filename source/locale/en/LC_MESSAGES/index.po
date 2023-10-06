@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicScience37 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-23 14:30+0000\n"
+"POT-Creation-Date: 2023-10-06 11:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
 "Language: en\n"
@@ -18,17 +18,17 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Generated-By: Babel 2.13.0\n"
 
 #: ../../source/index.rst:16 ../../source/index.rst:72
 msgid "ソフトウェア開発"
 msgstr "Software Development"
 
-#: ../../source/index.rst:79
-msgid "研究"
-msgstr "Research"
+#: ../../source/index.rst:56 ../../source/index.rst:79
+msgid "音楽"
+msgstr "Music"
 
-#: ../../source/index.rst:86
+#: ../../source/index.rst:87
 msgid "Internal"
 msgstr ""
 
@@ -130,10 +130,6 @@ msgstr ""
 #: ../../source/index.rst:53
 msgid ":ref:`software_repositories`"
 msgstr ""
-
-#: ../../source/index.rst:56
-msgid "音楽"
-msgstr "Music"
 
 #: ../../source/index.rst:58
 msgid "テノール（2013年～）"
