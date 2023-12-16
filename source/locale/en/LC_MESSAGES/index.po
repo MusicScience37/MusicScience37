@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicScience37 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-16 16:07+0000\n"
+"POT-Creation-Date: 2023-12-16 16:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
 "Language: en\n"
@@ -20,15 +20,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.14.0\n"
 
-#: ../../source/index.rst:16 ../../source/index.rst:78
+#: ../../source/index.rst:16 ../../source/index.rst:80
 msgid "ソフトウェア開発"
 msgstr "Software Development"
 
-#: ../../source/index.rst:62 ../../source/index.rst:85
+#: ../../source/index.rst:64 ../../source/index.rst:87
 msgid "音楽"
 msgstr "Music"
 
-#: ../../source/index.rst:93
+#: ../../source/index.rst:95
 msgid "Internal"
 msgstr ""
 
@@ -53,10 +53,14 @@ msgid "言語：C++, Python"
 msgstr "Languages: C++, Python."
 
 #: ../../source/index.rst:20
+msgid "興味のあること：数値計算、プログラムの高速化、CI (Continuous Integration) など"
+msgstr "Interests: Numerical analysis, optimization of programs, CI (continuous integration), and so on..."
+
+#: ../../source/index.rst:22
 msgid "数値解析"
 msgstr "Numerical analysis"
 
-#: ../../source/index.rst:22
+#: ../../source/index.rst:24
 msgid ""
 "数値解析ノート : 数値解析で調査したことを整理するノート [`PDF "
 "<https://numanalnote.musicscience37.com/numerical-analysis-note.pdf>`__] "
@@ -67,12 +71,13 @@ msgid ""
 msgstr ""
 "Numerical Analysis Note : (For Japanese) Research note about numerical "
 "analysis in Japanese. [`PDF <https://numanalnote.musicscience37.com"
-"/numerical-analysis-note.pdf>`__] [`Web <https://numanalnote.musicscience37.com/>`__] [`GitLab "
+"/numerical-analysis-note.pdf>`__] [`Web "
+"<https://numanalnote.musicscience37.com/>`__] [`GitLab "
 "<https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-"
 "analysis-note>`__] [`GitHub (Mirror) <https://github.com/MusicScience37"
 "/numerical-analysis-note>`__]"
 
-#: ../../source/index.rst:29
+#: ../../source/index.rst:31
 msgid ""
 "numerical-collection-cpp : 数値解析のアルゴリズムを C++ で実装しているリポジトリ [`GitLab "
 "<https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-"
@@ -85,11 +90,11 @@ msgstr ""
 "collection-cpp>`__] [`GitHub (Mirror) <https://github.com/MusicScience37"
 "/numerical-collection-cpp>`__]"
 
-#: ../../source/index.rst:34
+#: ../../source/index.rst:36
 msgid "C++"
 msgstr ""
 
-#: ../../source/index.rst:36
+#: ../../source/index.rst:38
 msgid ""
 "cpp-stat-bench : 統計情報に加えてグラフの作成まで行うベンチマークライブラリ [`GitLab "
 "<https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-"
@@ -101,7 +106,7 @@ msgstr ""
 "bench>`__] [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-stat-"
 "bench>`__]"
 
-#: ../../source/index.rst:41
+#: ../../source/index.rst:43
 msgid ""
 "cpp-hash-tables : ハッシュテーブルの実装 [`GitLab "
 "<https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-"
@@ -113,11 +118,11 @@ msgstr ""
 "tables>`__] [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-"
 "hash-tables>`__]"
 
-#: ../../source/index.rst:46
+#: ../../source/index.rst:48
 msgid "その他"
 msgstr "Others"
 
-#: ../../source/index.rst:48
+#: ../../source/index.rst:50
 msgid ""
 "TIL : 日々の学んだことを書き込んでいくページ [`Web <https://til.musicscience37.com/>`__] "
 "[`GitLab <https://gitlab.com/MusicScience37/til>`__] [`GitHub (Mirror) "
@@ -128,7 +133,7 @@ msgstr ""
 "<https://gitlab.com/MusicScience37/til>`__] [`GitHub (Mirror) "
 "<https://github.com/MusicScience37/TIL>`__]"
 
-#: ../../source/index.rst:54
+#: ../../source/index.rst:56
 msgid ""
 "My Cheat Sheets : 私が欲しいと思ったチートシートを作成するリポジトリ [`Web "
 "<https://cheatsheets.musicscience37.com/>`__] [`GitLab "
@@ -138,27 +143,27 @@ msgstr ""
 "<https://cheatsheets.musicscience37.com/>`__] [`GitLab "
 "<https://gitlab.com/MusicScience37/my-cheat-sheets>`__]"
 
-#: ../../source/index.rst:59
+#: ../../source/index.rst:61
 msgid ":ref:`software_repositories`"
 msgstr ""
 
-#: ../../source/index.rst:64
+#: ../../source/index.rst:66
 msgid "テノール（2013年～）"
 msgstr "Tenor (since 2013)"
 
-#: ../../source/index.rst:65
+#: ../../source/index.rst:67
 msgid "ホルン（2007年～2010年、2013年～2017年）"
 msgstr "Horn (2007-2010, 2013-2017)"
 
-#: ../../source/index.rst:66
+#: ../../source/index.rst:68
 msgid "作編曲（時期不明～）"
 msgstr "Composition and arrangement (since unknown time)"
 
-#: ../../source/index.rst:69
+#: ../../source/index.rst:71
 msgid "アイコン"
 msgstr "My Icon"
 
-#: ../../source/index.rst:71
+#: ../../source/index.rst:73
 msgid ""
 "本ページにも使用している私のアイコンについては `KIcon <https://kicon.musicscience37.com/ja/>`_ "
 "を参照。"

@@ -17,6 +17,8 @@ MusicScience37
 
 - 言語：C++, Python
 
+- 興味のあること：数値計算、プログラムの高速化、CI (Continuous Integration) など
+
 - 数値解析
 
   - 数値解析ノート
@@ -87,8 +89,8 @@ MusicScience37
     :maxdepth: 1
     :hidden:
 
-    music/recordings
     music/compositions
+    music/recordings
 
 .. toctree::
     :caption: Internal
