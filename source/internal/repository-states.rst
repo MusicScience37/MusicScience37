@@ -11,6 +11,7 @@
         - - リポジトリ
           - 主な言語
           - 最終更新
+          - Issue
           - 自動 CI
           - ブランチ
           - CI 結果
@@ -21,6 +22,7 @@
         - - `{{repository.name}} <https://gitlab.com/{{repository.gitlab_path}}>`_
           - {{repository.main_languages}}
           - .. image:: https://img.shields.io/gitlab/last-commit/{{repository.gitlab_path}}?label=
+          - .. image:: https://img.shields.io/gitlab/issues/open/{{repository.gitlab_path}}?label=
           - {{repository.ci_schedule}}
           - {{repository.default_branch}}
           - .. image:: https://img.shields.io/gitlab/pipeline-status/{{repository.gitlab_path}}?branch={{repository.default_branch}}&label=

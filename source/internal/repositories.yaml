@@ -149,19 +149,19 @@ repositories:
     gitlab_path: MusicScience37/MusicScience37
     ci_schedule: 木 13:20
     default_branch: main
-    main_languages: reSt, Markdown
+    main_languages: reSt, MD
 
   - name: TIL
     gitlab_path: MusicScience37/til
     ci_schedule: 木 15:20
     default_branch: main
-    main_languages: reSt, Markdown, Python
+    main_languages: reSt, MD
 
   - name: Numerical Analysis Note
     gitlab_path: MusicScience37Projects/numerical-analysis/numerical-analysis-note
     ci_schedule: 木 16:20
     default_branch: main
-    main_languages: TeX, reSt, Markdown, Python
+    main_languages: TeX, reSt, MD
 
   - name: My Cheat Sheets
     gitlab_path: MusicScience37/my-cheat-sheets
