@@ -89,4 +89,4 @@ MusicScience37
     :maxdepth: 1
     :hidden:
 
-    internal/ci-status
+    internal/repository-states
