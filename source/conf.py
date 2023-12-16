@@ -49,19 +49,12 @@ ogp_site_name = "MusicScience37"
 ogp_image = "https://kicon.musicscience37.com/KIcon128white.png"
 
 
-# setting of sphinxcontrib-bibtex
-# https://sphinxcontrib-bibtex.readthedocs.io
-# extensions += ["sphinxcontrib.bibtex"]
-# bibtex_bibfiles = ["research/papers.bib"]
-# bibtex_default_style = "unsrt"
-
-
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "sphinx_rtd_theme"
+html_theme = "sphinx_orange_book_theme"
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -78,8 +71,14 @@ html_logo = "https://kicon.musicscience37.com/KIcon80.png"
 html_favicon = "https://kicon.musicscience37.com/KIcon.ico"
 
 html_theme_options = {
-    "navigation_depth": -1,
-    "style_nav_header_background": "#B24700",
+    "show_prev_next": False,
+    "logo": {
+        "text": html_title,
+    },
+    "pygment_light_style": "gruvbox-light",
+    "pygment_dark_style": "native",
+    "repository_url": "https://gitlab.com/MusicScience37/MusicScience37",
+    "use_repository_button": True,
 }
 
 
