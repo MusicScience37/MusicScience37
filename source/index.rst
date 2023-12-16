@@ -22,6 +22,7 @@ MusicScience37
   - 数値解析ノート
     : 数値解析で調査したことを整理するノート
     [`PDF <https://numanalnote.musicscience37.com/numerical-analysis-note.pdf>`__]
+    [`Web <https://numanalnote.musicscience37.com/>`__]
     [`GitLab <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note>`__]
     [`GitHub (Mirror) <https://github.com/MusicScience37/numerical-analysis-note>`__]
 
@@ -49,6 +50,11 @@ MusicScience37
     [`Web <https://til.musicscience37.com/>`__]
     [`GitLab <https://gitlab.com/MusicScience37/til>`__]
     [`GitHub (Mirror) <https://github.com/MusicScience37/TIL>`__]
+
+  - My Cheat Sheets
+    : 私が欲しいと思ったチートシートを作成するリポジトリ
+    [`Web <https://cheatsheets.musicscience37.com/>`__]
+    [`GitLab <https://gitlab.com/MusicScience37/my-cheat-sheets>`__]
 
 - :ref:`software_repositories`
 
@@ -89,4 +95,4 @@ MusicScience37
     :maxdepth: 1
     :hidden:
 
-    internal/ci-status
+    internal/repository-states

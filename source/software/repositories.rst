@@ -16,6 +16,7 @@
 - 数値解析ノート
   : 数値解析で調査したことを整理するノート（LaTeX）
   [`PDF <https://numanalnote.musicscience37.com/numerical-analysis-note.pdf>`__]
+  [`Web <https://numanalnote.musicscience37.com/>`__]
   [`GitLab <https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note>`__]
   [`GitHub (Mirror) <https://github.com/MusicScience37/numerical-analysis-note>`__]
 
@@ -36,6 +37,11 @@ C++ ライブラリ・ツール
   : ハッシュテーブルの実装（C++）
   [`GitLab <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables>`__]
   [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-hash-tables>`__]
+
+- cpp-msgpack-rpc
+  : MessagePack RPC の実装（C++）
+  [`GitLab <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-msgpack-rpc>`__]
+  [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-msgpack-rpc>`__]
 
 - clang-tidy-checker
   : C++ のソースコードに対して
@@ -59,7 +65,7 @@ Docker イメージ
 - sphinx-doxygen-docker
   : Sphinx と Doxygen を使用するための Docker イメージ
   [`GitLab <https://gitlab.com/MusicScience37Projects/docker/sphinx-doxygen-docker>`__]
-  [`GitHub <https://github.com/MusicScience37/sphinx-doxygen-docker>`__]
+  [`GitHub (Mirror) <https://github.com/MusicScience37/sphinx-doxygen-docker>`__]
 
 その他
 ---------------
@@ -80,3 +86,7 @@ Docker イメージ
   : 私が欲しいと思ったチートシートを作成するリポジトリ（LaTeX）
   [`Web <https://cheatsheets.musicscience37.com/>`__]
   [`GitLab <https://gitlab.com/MusicScience37/my-cheat-sheets>`__]
+
+- LaTeX Image Generator
+  : LaTeX で数式などの画像を生成するツール（Python）
+  [`GitLab <https://gitlab.com/MusicScience37Projects/tools/latex-image-generator>`__]

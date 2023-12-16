@@ -19,22 +19,17 @@
 - Numerical Analysis
   - Numerical Analysis Note ([GitLab](https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-analysis-note), [Mirror in GitHub](https://github.com/MusicScience37/numerical-analysis-note))
   - numerical-collection-cpp ([GitLab](https://gitlab.com/MusicScience37Projects/numerical-analysis/numerical-collection-cpp), [Mirror in GitHub](https://github.com/MusicScience37/numerical-collection-cpp))
-- C++ Libraries
+- C++ Libraries and Tools
   - cpp-stat-bench ([GitLab](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench), [Mirror in GitHub](https://github.com/MusicScience37/cpp-stat-bench))
   - cpp-hash-tables ([GitLab](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables), [Mirror in GitHub](https://github.com/MusicScience37/cpp-hash-tables))
-- C++ Tools
+  - cpp-msgpack-rpc ([GitLab](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-msgpack-rpc), [Mirror in GitHub](https://github.com/MusicScience37/cpp-msgpack-rpc))
   - clang-tidy-checker ([GitLab](https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker), [Mirror in GitHub](https://github.com/MusicScience37/clang-tidy-checker))
 - Docker Images
   - pipenv-docker ([GitLab](https://gitlab.com/MusicScience37Projects/docker/pipenv-docker), [Mirror in GitHub](https://github.com/MusicScience37/pipenv-docker))
   - texlive-pipenv-docker ([GitLab](https://gitlab.com/MusicScience37Projects/docker/texlive-pipenv-docker))
-  - clang-ci-docker ([GitLab](https://gitlab.com/MusicScience37Projects/docker/clang-ci-docker), [Mirror in GitHub](https://github.com/MusicScience37/clang-ci-docker))
   - sphinx-doxygen-docker ([GitLab](https://gitlab.com/MusicScience37Projects/docker/sphinx-doxygen-docker), [Mirror in GitHub](https://github.com/MusicScience37/sphinx-doxygen-docker))
-  - my-cpp-env-docker ([GitLab](https://gitlab.com/MusicScience37Projects/docker/my-cpp-env-docker))
-- Documents
+- Others
   - MusicScience37 ([GitLab](https://gitlab.com/MusicScience37/MusicScience37), [Mirror in GitHub](https://github.com/MusicScience37/MusicScience37))
   - TIL ([GitLab](https://gitlab.com/MusicScience37/til), [Mirror in GitHub](https://github.com/MusicScience37/TIL))
   - My Cheat Sheets ([GitLab](https://gitlab.com/MusicScience37/my-cheat-sheets))
-- Others
-  - KIcon ([GitLab](https://gitlab.com/MusicScience37/kicon), [Mirror in GitHub](https://github.com/MusicScience37/KIcon))
   - LaTeX Image Generator ([GitLab](https://gitlab.com/MusicScience37Projects/tools/latex-image-generator))
-  - cookiecutter-my-cpp-templates ([GitLab](https://gitlab.com/MusicScience37Projects/templates/cookiecutter-my-cpp-templates))

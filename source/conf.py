@@ -14,6 +14,16 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+import os
+import yaml
+import typing
+
+
+def read_yaml(relative_file_path: str) -> typing.Any:
+    this_dir = os.path.dirname(os.path.abspath(__file__))
+    with open(os.path.join(this_dir, relative_file_path), mode="r") as file:
+        return yaml.safe_load(file)
+
 
 # -- Project information -----------------------------------------------------
 
@@ -40,6 +50,11 @@ templates_path = ["_templates"]
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+# setting of sphinx-jinja
+extensions += ["sphinx_jinja"]
+jinja_contexts = {
+    "internal_repositories": read_yaml("internal/repositories.yaml"),
+}
 
 # setting of opengraph
 # https://pypi.org/project/sphinxext-opengraph/
@@ -49,19 +64,12 @@ ogp_site_name = "MusicScience37"
 ogp_image = "https://kicon.musicscience37.com/KIcon128white.png"
 
 
-# setting of sphinxcontrib-bibtex
-# https://sphinxcontrib-bibtex.readthedocs.io
-# extensions += ["sphinxcontrib.bibtex"]
-# bibtex_bibfiles = ["research/papers.bib"]
-# bibtex_default_style = "unsrt"
-
-
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "sphinx_rtd_theme"
+html_theme = "sphinx_orange_book_theme"
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -78,8 +86,14 @@ html_logo = "https://kicon.musicscience37.com/KIcon80.png"
 html_favicon = "https://kicon.musicscience37.com/KIcon.ico"
 
 html_theme_options = {
-    "navigation_depth": -1,
-    "style_nav_header_background": "#B24700",
+    "show_prev_next": False,
+    "logo": {
+        "text": html_title,
+    },
+    "pygment_light_style": "gruvbox-light",
+    "pygment_dark_style": "native",
+    "repository_url": "https://gitlab.com/MusicScience37/MusicScience37",
+    "use_repository_button": True,
 }
 
 
