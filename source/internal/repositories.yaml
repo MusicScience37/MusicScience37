@@ -121,7 +121,7 @@ repositories:
   - name: clang-tidy-checker
     gitlab_path: MusicScience37Projects/tools/clang-tidy-checker
     ci_schedule: 月 14:20
-    default_branch: develop
+    default_branch: main
     main_languages: Python
 
   - name: LaTeX Image Generator
