@@ -91,10 +91,3 @@ MusicScience37
 
     music/compositions
     music/recordings
-
-.. toctree::
-    :caption: Internal
-    :maxdepth: 1
-    :hidden:
-
-    internal/repository-states

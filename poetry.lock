@@ -976,22 +976,6 @@ sphinx = "*"
 test = ["mock", "pytest", "six"]
 
 [[package]]
-name = "sphinx-jinja"
-version = "2.0.2"
-description = "includes jinja templates in a documentation"
-optional = false
-python-versions = ">=3.6,<4"
-files = [
-    {file = "sphinx-jinja-2.0.2.tar.gz", hash = "sha256:c6232b59a894139770be1dc6d0b00a379e4288ce78157904e1f8473dea3e0718"},
-    {file = "sphinx_jinja-2.0.2-py3-none-any.whl", hash = "sha256:705ebeb9b7a6018ca3f93724315a7c1effa6ba3db44d630e7eaaa15e4ac081a8"},
-]
-
-[package.dependencies]
-docutils = ">=0.16"
-Jinja2 = ">=2.11"
-sphinx = ">4.2.0"
-
-[[package]]
 name = "sphinx-orange-book-theme"
 version = "0.2.0"
 description = "An orange version of sphinx-book-theme."
@@ -1192,17 +1176,6 @@ files = [
 ]
 
 [[package]]
-name = "types-pyyaml"
-version = "6.0.12.12"
-description = "Typing stubs for PyYAML"
-optional = false
-python-versions = "*"
-files = [
-    {file = "types-PyYAML-6.0.12.12.tar.gz", hash = "sha256:334373d392fde0fdf95af5c3f1661885fa10c52167b14593eb856289e1855062"},
-    {file = "types_PyYAML-6.0.12.12-py3-none-any.whl", hash = "sha256:c05bc6c158facb0676674b7f11fe3960db4f389718e19e62bd2b84d6205cfd24"},
-]
-
-[[package]]
 name = "typing-extensions"
 version = "4.9.0"
 description = "Backported and Experimental Type Hints for Python 3.8+"
@@ -1252,4 +1225,4 @@ test = ["covdefaults (>=2.3)", "coverage (>=7.2.7)", "coverage-enable-subprocess
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10,<3.12"
-content-hash = "999fa62754acd4c6043eb2acb7f90ea27cf30e49dcf9505128f892682c643e25"
+content-hash = "49d5ccf406f1c6920ba8dee162a60e6fa3a3e51ba9835615a48bca97932e9530"
