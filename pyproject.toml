@@ -19,7 +19,7 @@ pyyaml = "^6.0.1"
 types-pyyaml = "^6.0.12.12"
 
 [tool.poetry.group.dev.dependencies]
-black = "^23.12.1"
+black = "^24.1.0"
 doc8 = "^1.1.1"
 pre-commit = "^3.6.0"
 pylint = "^3.0.3"
