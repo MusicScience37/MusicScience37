@@ -14,17 +14,6 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import os
-import yaml
-import typing
-
-
-def read_yaml(relative_file_path: str) -> typing.Any:
-    this_dir = os.path.dirname(os.path.abspath(__file__))
-    with open(os.path.join(this_dir, relative_file_path), mode="r") as file:
-        return yaml.safe_load(file)
-
-
 # -- Project information -----------------------------------------------------
 
 project = "MusicScience37"
@@ -49,12 +38,6 @@ templates_path = ["_templates"]
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
-
-# setting of sphinx-jinja
-extensions += ["sphinx_jinja"]
-jinja_contexts = {
-    "internal_repositories": read_yaml("internal/repositories.yaml"),
-}
 
 # setting of opengraph
 # https://pypi.org/project/sphinxext-opengraph/
