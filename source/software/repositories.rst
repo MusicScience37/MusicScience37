@@ -43,6 +43,11 @@ C++ ライブラリ・ツール
   [`GitLab <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-msgpack-rpc>`__]
   [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-msgpack-rpc>`__]
 
+- cpp-msgpack-light
+  : MessagePack のシリアライズの実装（C++）
+  [`GitLab <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-msgpack-light>`__]
+  [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-msgpack-light>`__]
+
 - clang-tidy-checker
   : C++ のソースコードに対して
   `Clang-Tidy <https://clang.llvm.org/extra/clang-tidy/>`_

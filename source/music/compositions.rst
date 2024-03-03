@@ -27,6 +27,3 @@
 
 - `木陰 <https://youtu.be/jqDdx72DI54>`_
   （2016, ピアノソロ）
-
-- `No.170 <https://youtu.be/DuV7UROPSgA>`_
-  （2013, 吹奏楽）
