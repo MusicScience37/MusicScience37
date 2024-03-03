@@ -90,4 +90,3 @@ MusicScience37
     :hidden:
 
     music/compositions
-    music/recordings
