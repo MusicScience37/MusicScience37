@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicScience37 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-23 15:04+0000\n"
+"POT-Creation-Date: 2024-03-03 01:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
 "Language: en\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.12.1\n"
+"Generated-By: Babel 2.14.0\n"
 
 #: ../../source/music/compositions.rst:2
 msgid "作曲"
@@ -26,8 +26,9 @@ msgstr "Compositions"
 
 #: ../../source/music/compositions.rst:4
 msgid "タイトルの後の括弧内は公開した年と編成を記載しています。"
-msgstr "The year of publication and instrumentations "
-"are shown in parentheses after each title."
+msgstr ""
+"The year of publication and instrumentations are shown in parentheses "
+"after each title."
 
 #: ../../source/music/compositions.rst:6
 msgid "`心の楽園 <https://youtu.be/eX_36j3GPmA>`_ （2021, 吹奏楽）"
@@ -51,12 +52,10 @@ msgstr "`秘密 <https://youtu.be/0WruC4hnfSA>`_ (2016, flute solo)"
 
 #: ../../source/music/compositions.rst:25
 msgid "`Ballad for precious ones <https://youtu.be/GfOISUeATGU>`_ （2016, ホルンソロ）"
-msgstr "`Ballad for precious ones <https://youtu.be/GfOISUeATGU>`_ (2016, horn solo)"
+msgstr ""
+"`Ballad for precious ones <https://youtu.be/GfOISUeATGU>`_ (2016, horn "
+"solo)"
 
 #: ../../source/music/compositions.rst:28
 msgid "`木陰 <https://youtu.be/jqDdx72DI54>`_ （2016, ピアノソロ）"
 msgstr "`木陰 <https://youtu.be/jqDdx72DI54>`_ (2016, piano solo)"
-
-#: ../../source/music/compositions.rst:31
-msgid "`No.170 <https://youtu.be/DuV7UROPSgA>`_ （2013, 吹奏楽）"
-msgstr "`No.170 <https://youtu.be/DuV7UROPSgA>`_ (2013, wind instruments)"

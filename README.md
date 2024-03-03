@@ -23,6 +23,7 @@
   - cpp-stat-bench ([GitLab](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench), [Mirror in GitHub](https://github.com/MusicScience37/cpp-stat-bench))
   - cpp-hash-tables ([GitLab](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables), [Mirror in GitHub](https://github.com/MusicScience37/cpp-hash-tables))
   - cpp-msgpack-rpc ([GitLab](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-msgpack-rpc), [Mirror in GitHub](https://github.com/MusicScience37/cpp-msgpack-rpc))
+  - cpp-msgpack-light ([GitLab](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-msgpack-light), [Mirror in GitHub](https://github.com/MusicScience37/cpp-msgpack-light))
   - clang-tidy-checker ([GitLab](https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker), [Mirror in GitHub](https://github.com/MusicScience37/clang-tidy-checker))
 - Docker Images
   - pipenv-docker ([GitLab](https://gitlab.com/MusicScience37Projects/docker/pipenv-docker), [Mirror in GitHub](https://github.com/MusicScience37/pipenv-docker))
