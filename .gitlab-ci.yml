@@ -12,18 +12,20 @@ variables:
 pre-commit:
   stage: test
   image: musicscience37/pipenv:jammy
+  variables:
+    POETRY_CACHE_DIR: ${CI_PROJECT_DIR}/.poetry-cache
   script:
     - poetry config virtualenvs.in-project true
     - poetry env use 3.11
-    - poetry install
+    - poetry install --sync
     - poetry run pre-commit run --all-files
   cache:
     key:
-      prefix: poetry-linux
+      prefix: poetry-${CI_JOB_NAME}
       files:
         - poetry.lock
     paths:
-      - .venv
+      - .poetry-cache
   needs: []
 
 spell check:
@@ -44,21 +46,21 @@ spell check:
 build:
   stage: build
   image: musicscience37/pipenv:jammy
+  variables:
+    POETRY_CACHE_DIR: ${CI_PROJECT_DIR}/.poetry-cache
   script:
-    - apt-get update
-    - apt-get install -y --no-install-recommends texlive-base
     - poetry config virtualenvs.in-project true
     - poetry env use 3.11
-    - poetry install
+    - poetry install --sync
     - poetry run python3 ./tool.py build -l ja
     - poetry run python3 ./tool.py build -l en
   cache:
     key:
-      prefix: poetry-linux
+      prefix: poetry-${CI_JOB_NAME}
       files:
         - poetry.lock
     paths:
-      - .venv
+      - .poetry-cache
   artifacts:
     paths:
       - build

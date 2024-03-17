@@ -9,7 +9,6 @@ RUN apt-get update && \
     gnupg2 \
     vim \
     nano \
-    texlive-base \
     sudo \
     && \
     apt-get autoremove && \
