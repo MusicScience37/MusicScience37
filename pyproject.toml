@@ -10,16 +10,16 @@ package-mode = false
 [tool.poetry.dependencies]
 python = ">=3.11,<3.12"
 sphinx = "^7.3.7"
-sphinx-orange-book-theme = "^0.7.0"
+sphinx-orange-book-theme = "^0.9.0"
 sphinxext-opengraph = "^0.9.1"
 click = "^8.1.7"
-myst-parser = "^3.0.0"
+myst-parser = "^3.0.1"
 sphinxcontrib-youtube = "^1.4.1"
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.4.2"
 doc8 = "^1.1.1"
-pre-commit = "^3.7.0"
+pre-commit = "^3.7.1"
 sphinx-autobuild = "^2024.4.16"
 sphinx-intl = "^2.2.0"
 
