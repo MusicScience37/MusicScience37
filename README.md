@@ -32,5 +32,5 @@
 - Others
   - MusicScience37 ([GitLab](https://gitlab.com/MusicScience37/MusicScience37), [Mirror in GitHub](https://github.com/MusicScience37/MusicScience37))
   - TIL ([GitLab](https://gitlab.com/MusicScience37/til), [Mirror in GitHub](https://github.com/MusicScience37/TIL))
-  - My Cheat Sheets ([GitLab](https://gitlab.com/MusicScience37/my-cheat-sheets))
+  - My Cheat Sheets ([GitLab](https://gitlab.com/MusicScience37Projects/documents/my-cheat-sheets))
   - LaTeX Image Generator ([GitLab](https://gitlab.com/MusicScience37Projects/tools/latex-image-generator))

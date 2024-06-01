@@ -202,11 +202,11 @@ msgstr ""
 msgid ""
 "My Cheat Sheets : 私が欲しいと思ったチートシートを作成するリポジトリ（LaTeX） [`Web "
 "<https://cheatsheets.musicscience37.com/>`__] [`GitLab "
-"<https://gitlab.com/MusicScience37/my-cheat-sheets>`__]"
+"<https://gitlab.com/MusicScience37Projects/documents/my-cheat-sheets>`__]"
 msgstr ""
 "My Cheat Sheets : (For Japanese) My cheat sheets in Japanese. (Latex) "
 "[`Web <https://cheatsheets.musicscience37.com/>`__] [`GitLab "
-"<https://gitlab.com/MusicScience37/my-cheat-sheets>`__]"
+"<https://gitlab.com/MusicScience37Projects/documents/my-cheat-sheets>`__]"
 
 #: ../../source/software/repositories.rst:95
 msgid ""

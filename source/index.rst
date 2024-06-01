@@ -56,7 +56,7 @@ MusicScience37
   - My Cheat Sheets
     : 私が欲しいと思ったチートシートを作成するリポジトリ
     [`Web <https://cheatsheets.musicscience37.com/>`__]
-    [`GitLab <https://gitlab.com/MusicScience37/my-cheat-sheets>`__]
+    [`GitLab <https://gitlab.com/MusicScience37Projects/documents/my-cheat-sheets>`__]
 
 - :ref:`software_repositories`
 

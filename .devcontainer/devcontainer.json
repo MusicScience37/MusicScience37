@@ -22,5 +22,5 @@
     }
   },
   "postCreateCommand": "bash ./.devcontainer/setup.bash",
-  "remoteUser": "vscode"
+  "remoteUser": "ubuntu"
 }

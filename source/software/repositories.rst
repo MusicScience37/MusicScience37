@@ -90,7 +90,7 @@ Docker イメージ
 - My Cheat Sheets
   : 私が欲しいと思ったチートシートを作成するリポジトリ（LaTeX）
   [`Web <https://cheatsheets.musicscience37.com/>`__]
-  [`GitLab <https://gitlab.com/MusicScience37/my-cheat-sheets>`__]
+  [`GitLab <https://gitlab.com/MusicScience37Projects/documents/my-cheat-sheets>`__]
 
 - LaTeX Image Generator
   : LaTeX で数式などの画像を生成するツール（Python）
