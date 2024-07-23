@@ -22,5 +22,6 @@
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "cSpell.enableFiletypes": ["po", "toml"]
+  "cSpell.enableFiletypes": ["po", "toml"],
+  "restructuredtext.pythonRecommendation.disabled": true
 }
