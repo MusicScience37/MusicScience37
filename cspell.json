@@ -29,6 +29,7 @@
     "pygment",
     "pylint",
     "pyyaml",
+    "setuptools",
     "sphinxcontrib",
     "sphinxext",
     "texlive",
