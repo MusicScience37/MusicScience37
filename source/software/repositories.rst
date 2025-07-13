@@ -48,6 +48,11 @@ C++ ライブラリ・ツール
   [`GitLab <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-msgpack-light>`__]
   [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-msgpack-light>`__]
 
+- cpp-plotly-plotter
+  : Plotly を使用してグラフをプロットするためのライブラリ（C++）
+  [`GitLab <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-plotly-plotter>`__]
+  [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-plotly-plotter>`__]
+
 - clang-tidy-checker
   : C++ のソースコードに対して
   `Clang-Tidy <https://clang.llvm.org/extra/clang-tidy/>`_

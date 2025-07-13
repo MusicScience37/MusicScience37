@@ -26,6 +26,7 @@
     "opengraph",
     "pipenv",
     "Pipfile",
+    "Plotly",
     "pygment",
     "pylint",
     "pyyaml",

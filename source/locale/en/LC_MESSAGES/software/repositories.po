@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicScience37 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-03 01:59+0000\n"
+"POT-Creation-Date: 2025-07-13 07:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Kenta Kabashima <kenta_program37@hotmail.co.jp>\n"
 "Language: en\n"
@@ -18,7 +18,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../source/software/repositories.rst:4
 msgid "主なリポジトリ一覧"
@@ -115,12 +115,24 @@ msgid ""
 "light>`__] [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-"
 "msgpack-light>`__]"
 msgstr ""
-"cpp-msgpack-light : A light library to serialize MessagePack. (C++) [`GitLab "
-"<https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-msgpack-"
-"light>`__] [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-"
-"msgpack-light>`__]"
+"cpp-msgpack-light : A light library to serialize MessagePack. (C++) "
+"[`GitLab <https://gitlab.com/MusicScience37Projects/utility-libraries"
+"/cpp-msgpack-light>`__] [`GitHub (Mirror) "
+"<https://github.com/MusicScience37/cpp-msgpack-light>`__]"
 
 #: ../../source/software/repositories.rst:51
+msgid ""
+"cpp-plotly-plotter : Plotly を使用してグラフをプロットするためのライブラリ（C++） [`GitLab "
+"<https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-plotly-"
+"plotter>`__] [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-"
+"plotly-plotter>`__]"
+msgstr ""
+"cpp-plotly-plotter : A library to create plots using plotly. (C++) [`GitLab "
+"<https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-plotly-"
+"plotter>`__] [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-"
+"plotly-plotter>`__]"
+
+#: ../../source/software/repositories.rst:56
 msgid ""
 "clang-tidy-checker : C++ のソースコードに対して `Clang-Tidy "
 "<https://clang.llvm.org/extra/clang-tidy/>`_ によるチェックを行うツール（Python） "
@@ -134,11 +146,11 @@ msgstr ""
 "/clang-tidy-checker>`__] [`GitHub (Mirror) "
 "<https://github.com/MusicScience37/clang-tidy-checker>`__]"
 
-#: ../../source/software/repositories.rst:59
+#: ../../source/software/repositories.rst:64
 msgid "Docker イメージ"
 msgstr "Docker Images"
 
-#: ../../source/software/repositories.rst:61
+#: ../../source/software/repositories.rst:66
 msgid ""
 "pipenv-docker : Pipenv を使用するための Docker イメージ [`GitLab "
 "<https://gitlab.com/MusicScience37Projects/docker/pipenv-docker>`__] "
@@ -148,7 +160,7 @@ msgstr ""
 "<https://gitlab.com/MusicScience37Projects/docker/pipenv-docker>`__] "
 "[`GitHub (Mirror) <https://github.com/MusicScience37/pipenv-docker>`__]"
 
-#: ../../source/software/repositories.rst:66
+#: ../../source/software/repositories.rst:71
 msgid ""
 "texlive-pipenv-docker : TeXLive と Pipenv を使用するための Docker イメージ [`GitLab "
 "<https://gitlab.com/MusicScience37Projects/docker/texlive-pipenv-"
@@ -158,7 +170,7 @@ msgstr ""
 "<https://gitlab.com/MusicScience37Projects/docker/texlive-pipenv-"
 "docker>`__]"
 
-#: ../../source/software/repositories.rst:70
+#: ../../source/software/repositories.rst:75
 msgid ""
 "sphinx-doxygen-docker : Sphinx と Doxygen を使用するための Docker イメージ [`GitLab "
 "<https://gitlab.com/MusicScience37Projects/docker/sphinx-doxygen-"
@@ -170,11 +182,11 @@ msgstr ""
 "docker>`__] [`GitHub (Mirror) <https://github.com/MusicScience37/sphinx-"
 "doxygen-docker>`__]"
 
-#: ../../source/software/repositories.rst:76
+#: ../../source/software/repositories.rst:81
 msgid "その他"
 msgstr "Others"
 
-#: ../../source/software/repositories.rst:78
+#: ../../source/software/repositories.rst:83
 msgid ""
 "MusicScience37 : 本ページのリポジトリ（Sphinx） [`Web "
 "<https://www.musicscience37.com/ja/>`__] [`GitLab "
@@ -186,7 +198,7 @@ msgstr ""
 "<https://gitlab.com/MusicScience37/MusicScience37>`__] [`GitHub (Mirror) "
 "<https://github.com/MusicScience37/MusicScience37>`__]"
 
-#: ../../source/software/repositories.rst:84
+#: ../../source/software/repositories.rst:89
 msgid ""
 "TIL : 日々の学んだことを書き込んでいくページ（Sphinx） [`Web "
 "<https://til.musicscience37.com/>`__] [`GitLab "
@@ -198,7 +210,7 @@ msgstr ""
 "<https://gitlab.com/MusicScience37/til>`__] [`GitHub (Mirror) "
 "<https://github.com/MusicScience37/TIL>`__]"
 
-#: ../../source/software/repositories.rst:90
+#: ../../source/software/repositories.rst:95
 msgid ""
 "My Cheat Sheets : 私が欲しいと思ったチートシートを作成するリポジトリ（LaTeX） [`Web "
 "<https://cheatsheets.musicscience37.com/>`__] [`GitLab "
@@ -208,7 +220,7 @@ msgstr ""
 "[`Web <https://cheatsheets.musicscience37.com/>`__] [`GitLab "
 "<https://gitlab.com/MusicScience37Projects/documents/my-cheat-sheets>`__]"
 
-#: ../../source/software/repositories.rst:95
+#: ../../source/software/repositories.rst:100
 msgid ""
 "LaTeX Image Generator : LaTeX で数式などの画像を生成するツール（Python） [`GitLab "
 "<https://gitlab.com/MusicScience37Projects/tools/latex-image-"
