@@ -30,7 +30,7 @@ msgstr "Music"
 
 #: ../../source/index.rst:-1 ../../source/index.rst:9
 msgid "趣味でプログラミングしたり、音楽を楽しんだりしています。"
-msgstr "Software development in my hobbies. Also I like music."
+msgstr "Software development as a hobby. Also I enjoy music."
 
 #: ../../source/index.rst:7
 msgid "MusicScience37"
