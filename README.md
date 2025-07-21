@@ -1,5 +1,7 @@
 # MusicScience37
 
+Software development in my hobbies.
+
 ## Profile
 
 ### In English
