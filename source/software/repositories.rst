@@ -49,7 +49,7 @@ C++ ライブラリ・ツール
   [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-msgpack-light>`__]
 
 - cpp-plotly-plotter
-  : Plotly を使用してグラフをプロットするためのライブラリ（C++）
+  : Plotly を使用してインタラクティブなグラフをプロットするためのライブラリ（C++）
   [`GitLab <https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-plotly-plotter>`__]
   [`GitHub (Mirror) <https://github.com/MusicScience37/cpp-plotly-plotter>`__]
 

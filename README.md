@@ -33,7 +33,7 @@ Software development as a hobby.
   - cpp-msgpack-light ([GitLab](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-msgpack-light), [Mirror in GitHub](https://github.com/MusicScience37/cpp-msgpack-light))
     : A lightweight library for serializing MessagePack data in C++.
   - cpp-plotly-plotter ([GitLab](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-plotly-plotter), [Mirror in GitHub](https://github.com/MusicScience37/cpp-plotly-plotter))
-    : A library for creating plots using Plotly in C++.
+    : A C++ library for creating interactive plots using Plotly.
   - clang-tidy-checker ([GitLab](https://gitlab.com/MusicScience37Projects/tools/clang-tidy-checker), [Mirror in GitHub](https://github.com/MusicScience37/clang-tidy-checker))
     : A tool for checking C / C++ source codes using clang-tidy.
 - Docker Images
