@@ -25,7 +25,7 @@ Software development as a hobby.
     : 数値解析で調査したことを整理するノート
 - C++ Libraries and Tools
   - cpp-stat-bench ([GitLab](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-stat-bench), [Mirror in GitHub](https://github.com/MusicScience37/cpp-stat-bench))
-    : A benchmark library with statical analysis and plotting capabilities in C++.
+    : A benchmark library with statistical analysis and plotting capabilities in C++.
   - cpp-hash-tables ([GitLab](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-hash-tables), [Mirror in GitHub](https://github.com/MusicScience37/cpp-hash-tables))
     : Hash tables in C++.
   - cpp-msgpack-rpc ([GitLab](https://gitlab.com/MusicScience37Projects/utility-libraries/cpp-msgpack-rpc), [Mirror in GitHub](https://github.com/MusicScience37/cpp-msgpack-rpc))
