@@ -10,8 +10,8 @@ package-mode = false
 [tool.poetry.dependencies]
 python = ">=3.12,<3.14"
 sphinx = "^8.2.3"
-sphinx-orange-book-theme = "^0.15.0"
-sphinxext-opengraph = "^0.10.0"
+sphinx-orange-book-theme = "^0.16.0"
+sphinxext-opengraph = "^0.12.0"
 click = "^8.2.1"
 myst-parser = "^4.0.1"
 sphinxcontrib-youtube = "^1.4.1"
@@ -19,11 +19,15 @@ setuptools = "^80.9.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^25.1.0"
+isort = "^6.0.1"
 doc8 = "^2.0.0"
-pre-commit = "^4.2.0"
+pre-commit = "^4.3.0"
 sphinx-autobuild = "^2024.10.3"
-sphinx-intl = "^2.3.1"
+sphinx-intl = "^2.3.2"
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "black"
