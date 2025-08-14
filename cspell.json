@@ -12,6 +12,7 @@
     "endfor",
     "gettext",
     "gruvbox",
+    "isort",
     "Kabashima",
     "Kenta",
     "kicon",

@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
 import subprocess
-import click
 from pathlib import Path
 from typing import Optional
 
+import click
 
 THIS_DIR = Path(__file__).absolute().parent
 
